@@ -1,7 +1,7 @@
 import csv
 
-inMapa = "./textsWithoutHeaders/"
-outMapa = "./textsModifed/"
+inMapa = "./textsOriginal/"
+outMapa = "./textsModified/"
 TOTAL_WORDS = 400
 STEVILO_ODLOMKOV = 20
 def fileModifier(fn):
@@ -10,7 +10,11 @@ def fileModifier(fn):
     #TODO odstrani zacetek in konec
     with open(inPath, 'r', encoding="utf8") as inputFile:
         for line in inputFile.readline():
-            if line==""
+            if line=="":
+                return 0
+                #TODO
+
+
     #Dobimo število vseh vrstic, da vemo na katerih mestih kasneje vzamemo odlomke
     with open(inPath, 'r', encoding="utf8") as inputFile:
         korakZaNaslednjiOdlomek= len(inputFile.readlines())//STEVILO_ODLOMKOV;
@@ -29,8 +33,6 @@ def fileModifier(fn):
                 l += 1
             outFile.write("\n")
             i+=1
-
-
 
 
 with open('texti.csv', newline='') as csvfile:

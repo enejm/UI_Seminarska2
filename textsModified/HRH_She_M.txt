@@ -1,0 +1,1473 @@
+     alphabet table, without diacritical marks.
+
+
+
+
+
+     PREPARER'S NOTE--UNICODE EDITION
+
+
+
+     A number of fragments of Greek and other text, omitted from the
+
+     original posting, have been restored in this Unicode text.
+
+     Sketches, however, have not yet been restored.
+
+
+
+
+
+
+
+
+
+SHE
+
+
+
+
+
+
+
+INTRODUCTION
+
+
+
+In giving to the world the record of what, looked at as an adventure
+
+only, is I suppose one of the most wonderful and mysterious experiences
+
+ever undergone by mortal men, I feel it incumbent on me to explain what
+
+my exact connection with it is. And so I may as well say at once that I
+
+am not the narrator but only the editor of this extraordinary history,
+
+and then go on to tell how it found its way into my hands.
+
+
+
+Some years ago I, the editor, was stopping with a friend, "_vir
+
+doctissimus et amicus neus_," at a certain University, which for the
+
+purposes of this history we will call Cambridge, and was one day much
+
+struck with the appearance of two persons whom I saw going arm-in-arm
+
+down the street. One of these gentlemen was I think, without exception,
+
+the handsomest young fellow I have ever seen. He was very tall, very
+
+broad, and had a look of power and a grace of bearing that seemed as
+
+native to him as it is to a wild stag. In addition his face was almost
+
+without flaw--a good face as well as a beautiful one, and when he lifted
+
+his hat, which he did just then to a passing lady, I saw that his head
+
+was covered with little golden curls growing close to the scalp.
+
+
+
+"Good gracious!" I said to my friend, with whom I was walking, "why,
+
+that fellow looks like a statue of Apollo come to life. What a splendid
+
+man he is!"
+
+
+
+"Yes," he answered, "he is the handsomest man in the University, and one
+
+of the nicest too. They call him 'the Greek god'; but look at the other
+
+circumstances, being asked no questions, I did not feel called upon to
+
+volunteer any information about our interview on the night of Vincey's
+
+decease, beyond saying that he had come into my rooms to see me, as he
+
+often did. On the day of the funeral a lawyer came down from London and
+
+followed my poor friend's remains to the grave, and then went back with
+
+his papers and effects, except, of course, the iron chest which had been
+
+left in my keeping. For a week after this I heard no more of the matter,
+
+and, indeed, my attention was amply occupied in other ways, for I was
+
+up for my Fellowship, a fact that had prevented me from attending the
+
+funeral or seeing the lawyer. At last, however, the examination was
+
+over, and I came back to my rooms and sank into an easy chair with a
+
+happy consciousness that I had got through it very fairly.
+
+
+
+Soon, however, my thoughts, relieved of the pressure that had crushed
+
+them into a single groove during the last few days, turned to the events
+
+of the night of poor Vincey's death, and again I asked myself what it
+
+all meant, and wondered if I should hear anything more of the matter,
+
+and if I did not, what it would be my duty to do with the curious iron
+
+chest. I sat there and thought and thought till I began to grow quite
+
+disturbed over the whole occurrence: the mysterious midnight visit, the
+
+prophecy of death so shortly to be fulfilled, the solemn oath that I had
+
+taken, and which Vincey had called on me to answer to in another world
+
+than this. Had the man committed suicide? It looked like it. And what
+
+was the quest of which he spoke? The circumstances were uncanny, so
+
+much so that, though I am by no means nervous, or apt to be alarmed
+
+at anything that may seem to cross the bounds of the natural, I grew
+
+afraid, and began to wish I had nothing to do with them. How much more
+
+do I wish it now, over twenty years afterwards!
+
+
+
+As I sat and thought, there came a knock at the door, and a letter, in a
+
+ΕΠΕΙΘΕΝΕΜΕΓΑΡΥΠΕΡΕΦΙΛΕΙΚΑΙΤΗΝΞΕΝΗΝΕΦΟΒΕΙΤΟΑΠΗΓΑΓΕΝΗΜΑΣΥΠΟΜΑΓΕΙΑΣΚΑΘΟΔΟ
+
+ΥΣΣΦΑΛΕΡΑΣΕΝΘΑΤΟΒΑΡΑΘΡΟΝΤΟΜΕΓΑΟΥΚΑΤΑΣΤΟΜΑΕΚΕΙΤΟΟΓΕΡΩΝΟΦΙΛΟΣΟΦΟΣΤΕΘΝΕΩΣ
+
+ΑΦΙΚΟΜΕΝΟΙΣΔΕΔΕΙΞΕΦΩΣΤΟΥΒΙΟΥΕΥΘΥΟΙΟΝΚΙΟΝΑΕΛΙΣΣΟΜΕΝΟΝΦΩΝΗΝΙΕΝΤΑΚΑΘΑΠΕΡΒ
+
+ΡΟΝΤΗΣΕΙΤΑΔΙΑΠΥΡΟΣΒΕΒΗΚΥΙΑΑΒΛΑΒΗΣΚΑΙΕΤΙΚΑΛΛΙΩΝΑΥΤΗΕΑΥΤΗΣΕΞΕΦΑΝΗΕΚΔΕΤΟΥ
+
+ΤΩΝΩΜΟΣΕΚΑΙΤΟΝΣΟΝΠΑΤΕΡΑΑΘΑΝΑΤΟΝΑΠΟΔΕΙΞΕΙΝΕΙΣΥΝΟΙΚΕΙΝΟΙΒΟΥΛΟΙΤΟΕΜΕΔΕΑΝΕ
+
+ΛΕΙΝΟΥΓΑΡΟΥΝΑΥΤΗΑΝΕΛΕΙΝΙΣΧΥΕΝΥΠΟΤΩΝΗΜΕΔΑΠΩΝΗΝΚΑΙΑΥΤΗΕΧΩΜΑΓΕΙΑΣΟΔΟΥΔΕΝΤ
+
+ΙΜΑΛΛΟΝΗΘΕΛΕΤΩΧΕΙΡΕΤΩΝΟΜΜΑΤΩΝΠΡΟΙΣΧΩΝΙΝΑΔΗΤΟΤΗΣΓΥΝΑΙΚΟΣΚΑΛΛΟΣΜΗΟΡΩΗΕΠΕ
+
+ΙΤΑΟΡΓΙΣΘΕΙΣΑΚΑΤΕΓΟΗΤΕΥΣΕΜΕΝΑΥΤΟΝΑΠΟΛΟΜΕΝΟΝΜΕΝΤΟΙΚΛΑΟΥΣΑΚΑΙΟΔΥΡΟΜΕΝΗΕΚ
+
+ΕΙΘΕΝΑΠΗΝΕΓΚΕΝΕΜΕΔΕΦΟΒΩΙΑΦΗΚΕΝΕΙΣΣΤΟΜΑΤΟΥΜΕΓΑΛΟΥΠΟΤΑΜΟΥΤΟΥΝΑΥΣΙΠΟΡΟΥΠΟ
+
+ΡΡΩΔΕΝΑΥΣΙΝΕΦΩΝΠΕΡΠΛΕΟΥΣΑΕΤΕΚΟΝΣΕΑΠΟΠΛΕΥΣΑΣΑΜΟΛΙΣΠΟΤΕΔΕΥΡΟΑΘΗΝΑΖΕΚΑΤΗΓ
+
+ΑΓΟΜΗΝΣΥΔΕΩΤΙΣΙΣΘΕΝΕΣΩΝΕΠΙΣΤΕΛΛΩΜΗΟΛΙΓΩΡΕΙΔΕΙΓΑΡΤΗΝΓΥΝΑΙΚΑΑΝΑΖΗΤΕΙΝΗΝΠ
+
+ΩΣΤΟΤΟΥΒΙΟΥΜΥΣΤΗΡΙΟΝΑΝΕΥΡΗΣΚΑΙΑΝΑΙΡΕΙΝΗΝΠΟΥΠΑΡΑΣΧΗΔΙΑΤΟΝΣΟΝΠΑΤΕΡΑΚΑΛΛΙ
+
+ΚΡΑΤΗΝΕΙΔΕΦΟΒΟΥΜΕΝΟΣΗΔΙΑΑΛΛΟΤΙΑΥΤΟΣΛΕΙΠΕΙΤΟΥΕΡΓΟΥΠΑΣΙΤΟΙΣΥΣΤΕΡΟΝΑΥΤΟΤΟ
+
+ΥΤΟΕΠΙΣΤΕΛΛΩΕΩΣΠΟΤΕΑΓΑΘΟΣΤΙΣΓΕΝΟΜΕΝΟΣΤΩΠΥΡΙΛΟΥΣΑΣΘΑΙΤΟΛΜΗΣΕΙΚΑΙΤΑΑΡΙΣΤ
+
+ΕΙΑΕΧΩΝΒΑΣΙΛΕΥΣΑΙΤΩΝΑΝΘΡΩΠΩΝΑΠΙΣΤΑΜΕΝΔΗΤΑΤΟΙΑΥΤΑΛΕΓΩΟΜΩΣΔΕΑΑΥΤΗΕΓΝΩΚΑΟ
+
+ΥΚΕΨΕΥΣΑΜΗΝ
+
+
+
+The general convenience in reading, I have here accurately transcribed
+
+this inscription into the cursive character.
+
+
+
+Ἀμενάρτας, τοῦ βασικοῦ γένους
+
+τοῦ Αἰγυπτίου, ἡ τοῦ Καλλικράτους
+
+Ἴσιδος ἱερέως, ἣν οἱ μὲν θεοὶ
+
+τρέφουσι τὰ δὲ δαιμονια ὑποτάσσεται,
+
+ἤδη τελευτῶσα Τισισθένει τῷ παιδὶ
+
+ἐπιστέλλει τάδε· συνέφυγον γάρ ποτε
+
+ἐκ τῆς Αἰγυπτίας ἐπὶ Νεκτανέβου
+
+μετὰ τοῦ σοῦ πατρός, διὰ τὸν ἔρωτα
+
+τὸν ἐμὸν ἐπιορκήσαντος. φυγόντες δὲ
+
+πρὸς νότον διαπόντιοι καὶ κʹδʹ μῆνας
+
+κατὰ τὰ παραθαλάσσια τῆς Αιβύης τὰ
+
+πρός ἡλίου ἀνατολὰς πλανηθέντες,
+
+ἔνθαπερ πέτρα τις μελάλη, γλυπτὸν
+
+ὁμοίωμα Αἰθίοπος κεφαλῆς, εἶτα
+
+ἡμέρας δʹ ἀπὸ στόματος ποταμοῦ
+
+μεγάλου ἐκπεσόντες, οἱ μέν
+
+κατεποντίσθημεν, οἱ δὲ νόσῳ
+
+ἀπεθάνομεν· τέλος δὲ ὑπ᾽ ἀλρίων
+
+ἀνθρώπων ἐφερόμεθα διὰ ἐλέων τε
+
+καὶ τεναλέων ἔνθαπερ πτηνῶν πλῆθος
+
+ἀποκρύπτει τὸν οὐρανὸν, ἡμέρας ί,
+
+ἕως ἤλθομεν εἰς κοῖλόν τι ὄρος, ἔνθα
+
+ποτὲ μεγάλη μὲν πόλις ἦν, ἄντρα δὲ
+
+ἀπείρονα· ἤγαγον δὲ ὡς βασίλειαν
+
+τὴν τῶν ξένους χύτραις στεφανούντων,
+
+ἥτις μαλεία μὲν ἐχρῆτο ἐπιστήμη δὲ
+
+πάντων καὶ δὴ καὶ κάλλός καὶ ῥώμην
+
+ἀλήρως ἦν· ἡ δὲ Καλλικράτους τοῦ
+
+πατρὸς ἐρασθεῖδα τὸ μὲν πρῶτον
+
+συνοικεῖν ἐβούλετο ἐμὲ δὲ ἀνελεῖν·
+
+ἔπειτα, ὡς οὐκ ἀνέπειθεν, ἐμὲ γὰρ
+
+ὑπερεφίλει καὶ τὴν ξένην ἐφοβεῖτο,
+
+ἀπήγαγεν ἡμᾶς ὑπὸ μαγείας καθʹ
+
+ὁδοὺς σφαλερὰς ἔνθα τὸ βάραθρον τὸ
+
+μέγα, οὗ κατὰ στόμα ἔκειτο ὁ γέρων
+
+ὁ φιλόσοφος τεθνεώς, ἀφικομένοις
+
+δʹ ἔδειξε φῶς τοῦ βίου εὐθύ, οἷον
+
+κίονα ἑλισσόμενον φώνην ἱέντα
+
+καθάπερ βροντῆς, εἶτα διὰ πυρὸς
+
+βεβηκυῖα ἀβλαβὴς καὶ ἔτι καλλίων
+
+αὐτὴ ἑαυτῆς ἐξεφάνη. ἐκ δὲ τούτων
+
+ὤμοσε καὶ τὸν σὸν πατέρα ἀθάνατον
+
+ἀποδείξειν, εἰ συνοικεῖν οἱ
+
+βούλοιτο ἐμὲ δε ὰνελεῖν, οὐ γὰρ
+
+οὖν αὐτὴ ἀνελεῖν ἴσχυεν ὑπὸ τῶν
+
+ἡμεδαπῶν ἣν καὶ αὐτὴ ἔχω μαγείας.
+
+ὁ δʹ οὐδέν τι μᾶλλον ἤθελε, τὼ χεῖρε
+
+τῶν ὀμμάτων προίσχων ἵνα δὴ τὸ τῆς
+
+γυναικὸς κάλλος μὴ ὁρῴη· ἔπειτα
+
+ὀργισθεῖσα κατεγοήτευσε μὲν αὐτόν,
+
+ἀπολόμενον μέντοι κλάουσα καὶ
+
+ὀδυρμένη ἐκεῖθεν ἀπήνεγκεν, ἐμὲ δὲ
+
+φόβῳ ἀφῆκεν εἰς στόμα τοῦ μεγάλου
+
+ποταμοῦ τοῦ ναυσιπόρου, πόδδω δὲ
+
+ναυσίν, ἐφʹ ὧνπερ πλέουσα ἔτεκόν
+
+IV
+
+
+
+THE SQUALL
+
+
+
+How different is the scene that I have now to tell from that which has
+
+just been told! Gone are the quiet college rooms, gone the wind-swayed
+
+English elms, the cawing rooks, and the familiar volumes on the shelves,
+
+and in their place there rises a vision of the great calm ocean gleaming
+
+in shaded silver lights beneath the beams of the full African moon. A
+
+gentle breeze fills the huge sail of our dhow, and draws us through
+
+the water that ripples musically against her sides. Most of the men are
+
+sleeping forward, for it is near midnight, but a stout swarthy Arab,
+
+Mahomed by name, stands at the tiller, lazily steering by the stars.
+
+Three miles or more to our starboard is a low dim line. It is the
+
+Eastern shore of Central Africa. We are running to the southward, before
+
+the North East Monsoon, between the mainland and the reef that for
+
+hundreds of miles fringes this perilous coast. The night is quiet, so
+
+quiet that a whisper can be heard fore and aft the dhow; so quiet that a
+
+faint booming sound rolls across the water to us from the distant land.
+
+
+
+The Arab at the tiller holds up his hand, and says one word:--"_Simba_
+
+(lion)!"
+
+
+
+We all sit up and listen. Then it comes again, a slow, majestic sound,
+
+that thrills us to the marrow.
+
+
+
+"To-morrow by ten o'clock," I say, "we ought, if the Captain is not out
+
+in his reckoning, which I think very probable, to make this mysterious
+
+rock with a man's head, and begin our shooting."
+
+
+
+"And begin our search for the ruined city and the Fire of Life,"
+
+corrected Leo, taking his pipe from his mouth, and laughing a little.
+
+
+
+"Nonsense!" I answered. "You were airing your Arabic with that man at
+
+the tiller this afternoon. What did he tell you? He has been trading
+
+(slave-trading, probably) up and down these latitudes for half of his
+
+iniquitous life, and once landed on this very 'man' rock. Did he ever
+
+hear anything of the ruined city or the caves?"
+
+
+
+"No," answered Leo. "He says that the country is all swamp behind, and
+
+every sort of waterfowl flew from its recesses, till it was sometimes
+
+difficult to see the sky. Now that the sun was getting high it drew thin
+
+sickly looking clouds of poisonous vapour from the surface of the marsh
+
+and from the scummy pools of stagnant water.
+
+
+
+"Two things are clear to me," I said, addressing my three companions,
+
+who stared at this spectacle in dismay: "first, that we can't go across
+
+there" (I pointed to the swamp), "and, secondly, that if we stop here we
+
+shall certainly die of fever."
+
+
+
+"That's as clear as a haystack, sir," said Job.
+
+
+
+"Very well, then; there are two alternatives before us. One is to 'bout
+
+ship, and try and run for some port in the whale-boat, which would be
+
+a sufficiently risky proceeding, and the other to sail or row on up the
+
+river, and see where we come to."
+
+
+
+"I don't know what you are going to do," said Leo, setting his mouth,
+
+"but I am going up that river."
+
+
+
+Job turned up the whites of his eyes and groaned, and the Arab murmured
+
+"Allah," and groaned also. As for me, I remarked sweetly that as we
+
+seemed to be between the devil and the deep sea, it did not much matter
+
+where we went. But in reality I was as anxious to proceed as Leo. The
+
+colossal negro's head and the stone wharf had excited my curiosity to an
+
+extent of which I was secretly ashamed, and I was prepared to gratify it
+
+at any cost. Accordingly, having carefully fitted the mast, restowed
+
+the boat, and got out our rifles, we embarked. Fortunately the wind
+
+was blowing on shore from the ocean, so we were able to hoist the sail.
+
+Indeed, we afterwards found out that as a general rule the wind set on
+
+shore from daybreak for some hours, and off shore again at sunset, and
+
+the explanation that I offer of this is, that when the earth is cooled
+
+by the dew and the night the hot air rises, and the draught rushes in
+
+from the sea till the sun has once more heated it through. At least that
+
+
+forward at a run till they reached the litter in which Job was reposing
+
+(with one leg hanging over the side). Apparently, however, he could not
+
+make much out of Job, for presently I saw his bearers trot forward to
+
+Leo's litter.
+
+
+
+And after that, as nothing fresh occurred, I yielded to the pleasant
+
+swaying motion of the litter, and went to sleep again. I was dreadfully
+
+tired. When I woke I found that we were passing through a rocky defile
+
+of a lava formation with precipitous sides, in which grew many beautiful
+
+trees and flowering shrubs.
+
+
+
+Presently this defile took a turn, and a lovely sight unfolded itself
+
+to my eyes. Before us was a vast cup of green from four to six miles in
+
+extent, in the shape of a Roman amphitheatre. The sides of this great
+
+cup were rocky, and clothed with bush, but the centre was of the richest
+
+meadow land, studded with single trees of magnificent growth, and
+
+watered by meandering brooks. On this rich plain grazed herds of goats
+
+and cattle, but I saw no sheep. At first I could not imagine what this
+
+strange spot could be, but presently it flashed upon me that it must
+
+represent the crater of some long-extinct volcano which had afterwards
+
+been a lake, and was ultimately drained in some unexplained way. And
+
+here I may state that from my subsequent experience of this and a much
+
+larger, but otherwise similar spot, which I shall have occasion to
+
+describe by-and-by, I have every reason to believe that this conclusion
+
+was correct. What puzzled me, however, was, that although there were
+
+people moving about herding the goats and cattle, I saw no signs of any
+
+human habitation. Where did they all live? I wondered. My curiosity was
+
+soon destined to be gratified. Turning to the left the string of litters
+
+followed the cliffy sides of the crater for a distance of about half
+
+a mile, or perhaps a little less, and then halted. Seeing the old
+
+gentleman, my adopted "father," Billali, emerge from his litter, I did
+
+the same, and so did Leo and Job. The first thing I saw was our wretched
+
+Arab companion, Mahomed, lying exhausted on the ground. It appeared that
+
+"What's up now, sir," said Job, doubtfully. "Bless us and save us,
+
+there's that woman again. Now, surely, she can't be after me, seeing
+
+that I have given her no encouragement. They give me the creeps, the
+
+whole lot of them, and that's a fact. Why look, they have asked Mahomed
+
+to dine, too. There, that lady of mine is talking to him in as nice and
+
+civil a way as possible. Well, I'm glad it isn't me, that's all."
+
+
+
+We looked up, and sure enough the woman in question had risen, and was
+
+escorting the wretched Mahomed from his corner, where, overcome by some
+
+acute prescience of horror, he had been seated, shivering, and calling
+
+on Allah. He appeared unwilling enough to come, if for no other reason
+
+perhaps because it was an unaccustomed honour, for hitherto his food had
+
+been given to him apart. Anyway I could see that he was in a state of
+
+great terror, for his tottering legs would scarcely support his
+
+stout, bulky form, and I think it was rather owing to the resources
+
+of barbarism behind him, in the shape of a huge Amahagger with a
+
+proportionately huge spear, than to the seductions of the lady who led
+
+him by the hand, that he consented to come at all.
+
+
+
+"Well," I said to the others, "I don't at all like the look of things,
+
+but I suppose we must face it out. Have you fellows got your revolvers
+
+on? because, if so, you had better see that they are loaded."
+
+
+
+"I have, sir," said Job, tapping his Colt, "but Mr. Leo has only got his
+
+hunting knife, though that is big enough, surely."
+
+
+
+Feeling that it would not do to wait while the missing weapon was
+
+fetched, we advanced boldly, and seated ourselves in a line, with our
+
+backs against the side of the cave.
+
+
+
+As soon as we were seated, an earthenware jar was passed round
+
+containing a fermented fluid, of by no means unpleasant taste, though
+
+apt to turn upon the stomach, made from crushed grain--not Indian corn,
+
+but a small brown grain that grows upon its stem in clusters, not unlike
+
+
+gaze upon it."
+
+
+
+I took this cold fragment of mortality in my hand and looked at it in
+
+the light of the lamp with feelings which I cannot describe, so mixed
+
+up were they between astonishment, fear, and fascination. It was light,
+
+much lighter I should say than it had been in the living state, and the
+
+flesh to all appearance was still flesh, though about it there clung a
+
+faintly aromatic odour. For the rest it was not shrunk or shrivelled, or
+
+even black and unsightly, like the flesh of Egyptian mummies, but plump
+
+and fair, and, except where it had been slightly burnt, perfect as on
+
+the day of death--a very triumph of embalming.
+
+
+
+Poor little foot! I set it down upon the stone bench where it had lain
+
+for so many thousand years, and wondered whose was the beauty that
+
+it had upborne through the pomp and pageantry of a forgotten
+
+civilisation--first as a merry child's, then as a blushing maid's, and
+
+lastly as a perfect woman's. Through what halls of Life had its soft
+
+step echoed, and in the end, with what courage had it trodden down the
+
+dusty ways of Death! To whose side had it stolen in the hush of night
+
+when the black slave slept upon the marble floor, and who had listened
+
+for its stealing? Shapely little foot! Well might it have been set upon
+
+the proud neck of a conqueror bent at last to woman's beauty, and
+
+well might the lips of nobles and of kings have been pressed upon its
+
+jewelled whiteness.
+
+
+
+I wrapped up this relic of the past in the remnants of the old linen rag
+
+which had evidently formed a portion of its owner's grave-clothes, for
+
+it was partially burnt, and put it away in my Gladstone bag--a strange
+
+combination, I thought. Then with Billali's help I staggered off to see
+
+Leo. I found him dreadfully bruised, worse even than myself, perhaps
+
+owing to the excessive whiteness of his skin, and faint and weak with
+
+the loss of blood from the flesh wound in his side, but for all that
+
+cheerful as a cricket, and asking for some breakfast. Job and Ustane
+
+and a party of the guard at once ran off to cut the animal up. As for
+
+myself, though I was longing to have a look at him, I sauntered back
+
+to my litter as though I had been in the habit of killing eland all my
+
+life, feeling that I had gone up several degrees in the estimation
+
+of the Amahagger, who looked on the whole thing as a very high-class
+
+manifestation of witchcraft. As a matter of fact, however, I had
+
+never seen an eland in a wild state before. Billali received me with
+
+enthusiasm.
+
+
+
+"It is wonderful, my son the Baboon," he cried; "wonderful! Thou art
+
+a very great man, though so ugly. Had I not seen, surely I would never
+
+have believed. And thou sayest that thou wilt teach me to slay in this
+
+fashion?"
+
+
+
+"Certainly, my father," I said airily; "it is nothing."
+
+
+
+But all the same I firmly made up my mind that when "my father" Billali
+
+began to fire I would without fail lie down or take refuge behind a
+
+tree.
+
+
+
+After this little incident nothing happened of any note till about an
+
+hour and a half before sundown, when we arrived beneath the shadow of
+
+the towering volcanic mass that I have already described. It is quite
+
+impossible for me to describe its grim grandeur as it appeared to me
+
+while my patient bearers toiled along the bed of the ancient watercourse
+
+towards the spot where the rich brown-hued cliff shot up from precipice
+
+to precipice till its crown lost itself in a cloud. All I can say is
+
+that it almost awed me by the intensity of its lonesome and most solemn
+
+greatness. On we went up the bright and sunny slope, till at last the
+
+creeping shadows from above swallowed up its brightness, and presently
+
+we began to pass through a cutting hewn in the living rock. Deeper
+
+and deeper grew this marvellous work, which must, I should say, have
+
+employed thousands of men for many years. Indeed, how it was ever
+
+executed at all without the aid of blasting-powder or dynamite I cannot
+
+to this day imagine. It is and must remain one of the mysteries of that
+
+the Pig. But gallantly they fought. Oh _Hiya_! they fought like very
+
+men, and slew many, and held their own, and then I came and saved them,
+
+and the evildoers have I sent on hither to Kôr to be judged of thy
+
+greatness, oh _She_! and here they are."
+
+
+
+"Ay, old man, I know it, and to-morrow will I sit in the great hall and
+
+do justice upon them, fear not. And for thee, I forgive thee, though
+
+hardly. See that thou dost keep thine household better. Go."
+
+
+
+Billali rose upon his knees with astonishing alacrity, bowed his head
+
+thrice, and his white beard sweeping the ground, crawled down the
+
+apartment as he had crawled up it, till he finally vanished through the
+
+curtains, leaving me, not a little to my alarm, alone with this terrible
+
+but most fascinating person.
+
+
+
+
+
+
+
+XIII
+
+
+
+AYESHA UNVEILS
+
+
+
+"There," said _She_, "he has gone, the white-bearded old fool! Ah, how
+
+little knowledge does a man acquire in his life. He gathereth it up like
+
+water, but like water it runneth through his fingers, and yet, if his
+
+hands be but wet as though with dew, behold a generation of fools call
+
+out, 'See, he is a wise man!' Is it not so? But how call they thee?
+
+'Baboon,' he says," and she laughed; "but that is the fashion of these
+
+savages who lack imagination, and fly to the beasts they resemble for a
+
+name. How do they call thee in thine own country, stranger?"
+
+
+
+"They call me Holly, oh Queen," I answered.
+
+
+
+"Holly," she answered, speaking the word with difficulty, and yet with a
+
+most charming accent; "and what is 'Holly'?"
+
+
+
+"'Holly' is a prickly tree," I said.
+
+
+
+"So. Well, thou hast a prickly and yet a tree-like look. Strong art
+
+thou, and ugly, but if my wisdom be not at fault, honest at the core,
+
+and a staff to lean on. Also one who thinks. But stay, oh Holly, stand
+
+not there, enter with me and be seated by me. I would not see thee crawl
+
+before me like those slaves. I am aweary of their worship and their
+
+now well on in middle life, had fallen absolutely and hopelessly in love
+
+with this white sorceress. Nonsense; it must be nonsense! She had warned
+
+me fairly, and I had refused to take the warning. Curses on the fatal
+
+curiosity that is ever prompting man to draw the veil from woman,
+
+and curses on the natural impulse that begets it! It is the cause of
+
+half--ay, and more than half--of our misfortunes. Why cannot man be
+
+content to live alone and be happy, and let the women live alone and be
+
+happy too? But perhaps they would not be happy, and I am not sure that
+
+we should either. Here is a nice state of affairs. I, at my age, to fall
+
+a victim to this modern Circe! But then she was not modern, at least she
+
+said not. She was almost as ancient as the original Circe.
+
+
+
+I tore my hair, and jumped up from my couch, feeling that if I did
+
+not do something I should go off my head. What did she mean about the
+
+scarabæus too? It was Leo's scarabæus, and had come out of the old
+
+coffer that Vincey had left in my rooms nearly one-and-twenty years
+
+before. Could it be, after all, that the whole story was true, and
+
+the writing on the sherd was _not_ a forgery, or the invention of some
+
+crack-brained, long-forgotten individual? And if so, could it be that
+
+_Leo_ was the man that _She_ was waiting for--the dead man who was to be
+
+born again! Impossible! The whole thing was gibberish! Who ever heard of
+
+a man being born again?
+
+
+
+But if it were possible that a woman could exist for two thousand years,
+
+this might be possible also--anything might be possible. I myself might,
+
+for aught I knew, be a reincarnation of some other forgotten self, or
+
+perhaps the last of a long line of ancestral selves. Well, _vive la
+
+guerre!_ why not? Only, unfortunately, I had no recollection of these
+
+previous conditions. The idea was so absurd to me that I burst out
+
+laughing, and, addressing the sculptured picture of a grim-looking
+
+warrior on the cave wall, called out to him aloud, "Who knows, old
+
+power as she went on, till the place rang with it. "Eaters of human
+
+flesh, two things have ye done. First, ye have attacked these strangers,
+
+being white men, and would have slain their servant, and for that alone
+
+death is your reward. But that is not all. Ye have dared to disobey me.
+
+Did I not send my word unto you by Billali, my servant, and the father
+
+of your household? Did I not bid you to hospitably entertain these
+
+strangers, whom now ye have striven to slay, and whom, had not they
+
+been brave and strong beyond the strength of men, ye would cruelly have
+
+murdered? Hath it not been taught to you from childhood that the law of
+
+_She_ is an ever fixed law, and that he who breaketh it by so much as
+
+one jot or tittle shall perish? And is not my lightest word a law?
+
+Have not your fathers taught you this, I say, whilst as yet ye were but
+
+children? Do ye not know that as well might ye bid these great caves to
+
+fall upon you, or the sun to cease its journeying, as to hope to turn
+
+me from my courses, or make my word light or heavy, according to your
+
+minds? Well do ye know it, ye Wicked Ones. But ye are all evil--evil
+
+to the core--the wickedness bubbles up in you like a fountain in the
+
+spring-time. Were it not for me, generations since had ye ceased to be,
+
+for of your own evil way had ye destroyed each other. And now, because
+
+ye have done this thing, because ye have striven to put these men, my
+
+guests, to death, and yet more because ye have dared to disobey my word,
+
+this is the doom that I doom you to. That ye be taken to the cave of
+
+torture,[*] and given over to the tormentors, and that on the going down
+
+of to-morrow's sun those of you who yet remain alive be slain, even as
+
+ye would have slain the servant of this my guest."
+
+
+
+     [*] "The cave of torture." I afterwards saw this dreadful
+
+     place, also a legacy from the prehistoric people who lived
+
+thou art not the man. Ah Holly, for all thy wisdom--and in a way thou
+
+art wise--thou art but a fool running after folly. Thou wouldst look
+
+into mine eyes--thou wouldst kiss me! Well, if it pleaseth thee,
+
+_look_," and she bent herself towards me, and fixed her dark and
+
+thrilling orbs upon my own; "ay, and _kiss_ too, if thou wilt, for,
+
+thanks be given to the scheme of things, kisses leave no marks, except
+
+upon the heart. But if thou dost kiss, I tell thee of a surety wilt thou
+
+eat out thy breast with love of me, and die!" and she bent yet further
+
+towards me till her soft hair brushed my brow, and her fragrant breath
+
+played upon my face, and made me faint and weak. Then of a sudden, even
+
+as I stretched out my hands to clasp, she straightened herself, and a
+
+quick change passed over her. Reaching out her hand, she held it over my
+
+head, and it seemed to me that something flowed from it that chilled
+
+me back to common sense, and a knowledge of propriety and the domestic
+
+virtues.
+
+
+
+"Enough of this wanton folly," she said with a touch of sternness.
+
+"Listen, Holly. Thou art a good and honest man, and I fain would spare
+
+thee; but, oh! it is so hard for woman to be merciful. I have said I am
+
+not for thee, therefore let thy thoughts pass by me like an idle wind,
+
+and the dust of thy imagination sink again into the depths--well, of
+
+despair, if thou wilt. Thou dost not know me, Holly. Hadst thou seen me
+
+but ten hours past when my passion seized me, thou hadst shrunk from me
+
+in fear and trembling. I am of many moods, and, like the water in that
+
+vessel, I reflect many things; but they pass, my Holly; they pass, and
+
+are forgotten. Only the water is the water still, and I still am I, and
+
+that which maketh the water maketh it, and that which maketh me maketh
+
+me, nor can my quality be altered. Therefore, pay no heed to what I
+
+seem, seeing that thou canst not know what I am. If thou troublest me
+
+
+I saw a little quiver pass down Ayesha's frame, and shuddered myself,
+
+fearing the worst.
+
+
+
+"Be pitiful," I said in Latin; "it is but Nature working."
+
+
+
+"I am pitiful," she answered coldly in the same language; "had I not
+
+been pitiful she had been dead even now." Then, addressing Ustane:
+
+"Woman, I say to thee, go before I destroy thee where thou art!"
+
+
+
+"I will not go! He is mine--mine!" she cried in anguish. "I took him,
+
+and I saved his life! Destroy me, then, if thou hast the power! I will
+
+not give thee my husband--never--never!"
+
+
+
+Ayesha made a movement so swift that I could scarcely follow it, but it
+
+seemed to me that she lightly struck the poor girl upon the head with
+
+her hand. I looked at Ustane, and then staggered back in horror, for
+
+there upon her hair, right across her bronze-like tresses, were three
+
+finger-marks _white as snow_. As for the girl herself, she had put her
+
+hands to her head, and was looking dazed.
+
+
+
+"Great heavens!" I said, perfectly aghast at this dreadful manifestation
+
+of human power; but _She_ did but laugh a little.
+
+
+
+"Thou thinkest, poor ignorant fool," she said to the bewildered woman,
+
+"that I have not the power to slay. Stay, there lies a mirror," and she
+
+pointed to Leo's round shaving-glass that had been arranged by Job with
+
+other things upon his portmanteau; "give it to this woman, my Holly, and
+
+let her see that which lies across her hair, and whether or no I have
+
+power to slay."
+
+
+
+I picked up the glass, and held it before Ustane's eyes. She gazed, then
+
+felt at her hair, then gazed again, and then sank upon the ground with a
+
+sort of sob.
+
+
+
+"Now, wilt thou go, or must I strike a second time?" asked Ayesha, in
+
+mockery. "Look, I have set my seal upon thee so that I may know thee
+
+till thy hair is all as white as it. If I see thy face again, be sure,
+
+too, that thy bones shall soon be whiter than my mark upon thy hair."
+
+
+
+Utterly awed and broken down, the poor creature rose, and, marked with
+
+
+
+"For Heaven's sake, Leo," I began, but she broke in--
+
+
+
+"Nay, listen not to him. Swift--be swift--death is in the air we
+
+breathe. Even now, mayhap, _She_ heareth us," and without more ado she
+
+proceeded to back her arguments by throwing herself into his arms. As
+
+she did so the leopard's head slipped from her hair, and I saw the three
+
+white finger-marks upon it, gleaming faintly in the starlight. Once
+
+more realising the desperate nature of the position, I was about to
+
+interpose, for I knew that Leo was not too strong-minded where women
+
+were concerned, when--oh! horror!--I heard a little silvery laugh behind
+
+me. I turned round, and there was _She_ herself, and with her Billali
+
+and two male mutes. I gasped and nearly sank to the ground, for I knew
+
+that such a situation must result in some dreadful tragedy, of which it
+
+seemed exceedingly probable to me that I should be the first victim. As
+
+for Ustane, she untwined her arms and covered her eyes with her hands,
+
+while Leo, not knowing the full terror of the position, merely covered
+
+up, and looked as foolish as a man caught in such a trap would naturally
+
+do.
+
+
+
+
+
+
+
+XX
+
+
+
+TRIUMPH
+
+
+
+Then followed a moment of the most painful silence that I ever endured.
+
+It was broken by Ayesha, who addressed herself to Leo.
+
+
+
+"Nay, now, my lord and guest," she said in her softest tones, which yet
+
+had the ring of steel about them, "look not so bashful. Surely the sight
+
+was a pretty one--the leopard and the lion!"
+
+
+
+"Oh, hang it all!" said Leo in English.
+
+
+
+"And thou, Ustane," she went on, "surely I should have passed thee by,
+
+had not the light fallen on the white across thy hair," and she pointed
+
+to the bright edge of the rising moon which was now appearing above
+
+the horizon. "Well! well! the dance is done--see, the tapers have burnt
+
+down, and all things end in silence and in ashes. So thou thoughtest
+
+it a fit time for love, Ustane, my servant--and I, dreaming not that I
+
+could be disobeyed, thought thee already far away."
+
+lamplight play upon it. I looked, and then shrank back terrified; since,
+
+say what she might in explanation, the sight was an uncanny one--for her
+
+explanations were beyond the grasp of our finite minds, and when they
+
+were stripped from the mists of vague esoteric philosophy, and brought
+
+into conflict with the cold and horrifying fact, did not do much to
+
+break its force. For there, stretched upon the stone bier before us,
+
+robed in white and perfectly preserved, was what appeared to be the body
+
+of Leo Vincey. I stared from Leo, standing _there_ alive, to Leo lying
+
+_there_ dead, and could see no difference; except, perhaps, that the
+
+body on the bier looked older. Feature for feature they were the same,
+
+even down to the crop of little golden curls, which was Leo's most
+
+uncommon beauty. It even seemed to me, as I looked, that the expression
+
+on the dead man's face resembled that which I had sometimes seen upon
+
+Leo's when he was plunged into profound sleep. I can only sum up the
+
+closeness of the resemblance by saying that I never saw twins so exactly
+
+similar as that dead and living pair.
+
+
+
+I turned to see what effect was produced upon Leo by the sight of his
+
+dead self, and found it to be one of partial stupefaction. He stood
+
+for two or three minutes staring, and said nothing, and when at last he
+
+spoke it was only to ejaculate--
+
+
+
+"Cover it up, and take me away."
+
+
+
+"Nay, wait, Kallikrates," said Ayesha, who, standing with the lamp
+
+raised above her head, flooding with its light her own rich beauty and
+
+the cold wonder of the death-clothed form upon the bier, resembled
+
+an inspired Sibyl rather than a woman, as she rolled out her majestic
+
+sentences with a grandeur and a freedom of utterance which I am, alas!
+
+quite unable to reproduce.
+
+
+
+"Wait, I would show thee something, that no tittle of my crime may be
+
+hidden from thee. Do thou, oh Holly, open the garment on the breast
+
+of the dead Kallikrates, for perchance my lord may fear to touch it
+
+himself."
+
+
+
+I obeyed with trembling hands. It seemed a desecration and an unhallowed
+
+even now I hate, for in a way she did prevail against me--see, now, she
+
+herself hath been the very means to bring her lover to mine arms! For
+
+her sake I slew him, and now, behold, through her he hath come back to
+
+me! She would have done me evil, and sowed her seeds that I might reap
+
+tares, and behold she hath given me more than all the world can give,
+
+and there is a strange square for thee to fit into thy circle of good
+
+and evil, oh Holly!
+
+
+
+"And so," she went on, after a pause--"and so she bade her son destroy
+
+me if he might, because I slew his father. And thou, my Kallikrates, art
+
+the father, and in a sense thou art likewise the son; and wouldst thou
+
+avenge thy wrong, and the wrong of that far-off mother of thine, upon
+
+me, oh Kallikrates? See," and she slid to her knees, and drew the white
+
+corsage still farther down her ivory bosom--"see, here beats my heart,
+
+and there by thy side is a knife, heavy, and long, and sharp, the very
+
+knife to slay an erring woman with. Take it now, and be avenged. Strike,
+
+and strike home!--so shalt thou be satisfied, Kallikrates, and go
+
+through life a happy man, because thou hast paid back the wrong, and
+
+obeyed the mandate of the past."
+
+
+
+He looked at her, and then stretched out his hand and lifted her to her
+
+feet.
+
+
+
+"Rise, Ayesha," he said sadly; "well thou knowest that I cannot strike
+
+thee, no, not even for the sake of her whom thou slewest but last
+
+night. I am in thy power, and a very slave to thee. How can I kill
+
+thee?--sooner should I slay myself."
+
+
+
+"Almost dost thou begin to love me, Kallikrates," she answered, smiling.
+
+"And now tell me of thy country--'tis a great people, is it not? with an
+
+empire like that of Rome! Surely thou wouldst return thither, and it is
+
+well, for I mean not that thou shouldst dwell in these caves of Kôr.
+
+Nay, when once thou art even as I am, we will go hence--fear not but
+
+that I shall find a path--and then shall we journey to this England of
+
+back, together with a spare jar of oil, while Leo loaded himself with
+
+the provisions and some water in a kid's skin. When this was done _She_
+
+bade Billali and the six bearer mutes to retreat behind a grove of
+
+flowering magnolias about a hundred yards away, and remain there under
+
+pain of death till we had vanished. They bowed humbly, and went, and,
+
+as he departed, old Billali gave me a friendly shake of the hand, and
+
+whispered that he had rather that it was I than he who was going on this
+
+wonderful expedition with "_She-who-must-be-obeyed_," and upon my word
+
+I felt inclined to agree with him. In another minute they were gone, and
+
+then, having briefly asked us if we were ready, Ayesha turned, and gazed
+
+up the towering cliff.
+
+
+
+"Goodness me, Leo," I said, "surely we are not going to climb that
+
+precipice!"
+
+
+
+Leo shrugged his shoulders, being in a condition of half-fascinated,
+
+half-expectant mystification, and as he did so, Ayesha with a sudden
+
+move began to climb the cliff, and of course we had to follow her. It
+
+was perfectly marvellous to see the ease and grace with which she sprang
+
+from rock to rock, and swung herself along the ledges. The ascent was
+
+not, however, so difficult as it seemed, although there were one or two
+
+nasty places where it did not do to look behind you, the fact being that
+
+the rock still sloped here, and was not absolutely precipitous as it was
+
+higher up. In this way we, with no great labour, mounted to the height
+
+of some fifty feet above our last standing-place, the only really
+
+troublesome thing to manage being Job's board, and in doing so drew some
+
+fifty or sixty paces to the left of our starting-point, for we went up
+
+like a crab, sideways. Presently we reached a ledge, narrow enough at
+
+first, but which widened as we followed it, and moreover sloped inwards
+
+like the petal of a flower, so that as we followed it we gradually got
+
+into a kind of rut or fold of rock, that grew deeper and deeper, till at
+
+last it resembled a Devonshire lane in stone, and hid us perfectly from
+
+mind hovering ever o'er humanity, shall so much as shadow thee with the
+
+shadow of their wings. As a God shalt thou be, holding good and evil in
+
+the hollow of thy hand, and I, even I, I humble myself before thee.
+
+Such is the power of Love, and such is the bridal gift I give unto thee,
+
+Kallikrates, my Lord and Lord of All.
+
+
+
+"And now it is done; now for thee I loose my virgin zone; and come
+
+storm, come shine, come good, come evil, come life, come death, it
+
+never, never can be undone. For, of a truth, that which is, is, and,
+
+being done, is done for aye, and cannot be altered. I have said--Let us
+
+hence, that all things may be accomplished in their order;" and, taking
+
+one of the lamps, she advanced towards the end of the chamber that was
+
+roofed in by the swaying stone, where she halted.
+
+
+
+We followed her, and perceived that in the wall of the cone there was a
+
+stair, or, to be more accurate, that some projecting knobs of rock had
+
+been so shaped as to form a good imitation of a stair. Down this Ayesha
+
+began to climb, springing from step to step, like a chamois, and after
+
+her we followed with less grace. When we had descended some fifteen
+
+or sixteen steps we found that they ended in a tremendous rocky slope,
+
+running first outwards and then inwards--like the slope of an inverted
+
+cone, or tunnel. The slope was very steep, and often precipitous, but
+
+it was nowhere impassable, and by the light of the lamps we went down it
+
+with no great difficulty, though it was gloomy work enough travelling on
+
+thus, no one of us knew whither, into the dead heart of a volcano. As
+
+we went, however, I took the precaution of noting our route as well as
+
+I could; and this was not so very difficult, owing to the extraordinary
+
+and most fantastic shape of the rocks that were strewn about, many of
+
+which in that dim light looked more like the grim faces carven upon
+
+mediæval gargoyles than ordinary boulders.
+
+
+
+For a long time we travelled on thus, half an hour I should say, till,
+
+extreme difficulty of finding our way. Indeed, had it not been for the
+
+mental notes that I had fortunately taken of the shape of various rocks,
+
+I am sure that we never should have managed it at all, but have wandered
+
+about in the dreadful womb of the volcano--for I suppose it must
+
+once have been something of the sort--until we died of exhaustion and
+
+despair. As it was we went wrong several times, and once nearly fell
+
+into a huge crack or crevasse. It was terrible work creeping about
+
+in the dense gloom and awful stillness from boulder to boulder,
+
+and examining it by the feeble light of the lamps to see if I could
+
+recognise its shape. We rarely spoke, our hearts were too heavy
+
+for speech, we simply stumbled about, falling sometimes and cutting
+
+ourselves, in a rather dogged sort of way. The fact was that our spirits
+
+were utterly crushed, and we did not greatly care what happened to us.
+
+Only we felt bound to try and save our lives whilst we could, and indeed
+
+a natural instinct prompted us to it. So for some three or four hours,
+
+I should think--I cannot tell exactly how long, for we had no watch
+
+left that would go--we blundered on. During the last two hours we were
+
+completely lost, and I began to fear that we had got into the funnel of
+
+some subsidiary cone, when at last I suddenly recognised a very large
+
+rock which we had passed in descending but a little way from the top.
+
+It is a marvel that I should have recognised it, and, indeed, we
+
+had already passed it going at right angles to the proper path, when
+
+something about it struck me, and I turned back and examined it in an
+
+idle sort of way, and, as it happened, this proved our salvation.
+
+
+
+After this we gained the rocky natural stair without much further
+
+trouble, and in due course found ourselves back in the little chamber
+
+where the benighted Noot had lived and died.
+
+
+
+But now a fresh terror stared us in the face. It will be remembered that
+
+owing to Job's fear and awkwardness, the plank upon which we had crossed
+
