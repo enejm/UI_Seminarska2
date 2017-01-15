@@ -1,18 +1,34 @@
-#install.packages(c("tm", "SnowballC", "wordcloud", "proxy", "kernlab", "NLP", "openNLP")) 
+install.packages(c("tm", "SnowballC", "wordcloud", "proxy", "kernlab", "NLP", "openNLP")) 
 
 
 # Nalozimo knjiznico za tekstovno rudarjenje v sistemu R
 library(tm)
 
-corpus <-Corpus(DirSource("textmining/economy"))
+source("corpus.R")
 
-length(corpus )
+corpus <- narediKorpus()
 
 
-# Predobdelava kopusa
-corpus  <- tm_map(corpus , removeNumbers)
-corpus  <- tm_map(corpus , removePunctuation)
-corpus  <- tm_map(corpus , content_transformer(tolower))
-corpus  <- tm_map(corpus , removeWords, stopwords())
-corpus  <- tm_map(corpus , stemDocument)
-corpus  <- tm_map(corpus , stripWhitespace)
+
+##TODO
+#
+# Preoblikovanje korpusa v ucno mnozico
+#
+
+# Zgradimo matriko pojavitev dokument-beseda
+data.tfidf <- DocumentTermMatrix(corpus, control = list(weighting=weightTfIdf))
+
+# Preberemo podatke o tematiki dokumentov, ki sluzijo kot razredi v klasifikaciji
+Topic <- as.data.frame(read.csv("textiFiction.csv")[ ,5])
+#Topic <-read.table("textmining/economy-topics.txt")
+
+# Zdradimo ucno mnozico tako, da matriki pojavitev dokument-beseda dodamo stolpec s tematiko dokumentov (razred)
+data <- cbind(as.matrix(data.tfidf), Topic)
+names(data)[ncol(data)] <- "Topic"
+
+# Ucno mnozico razdelimo na dejansko ucno mnozico in testno mnozico
+sel <- sample(nrow(data), 200, F)
+train <- data[-sel,]
+test <- data[sel,]
+
+

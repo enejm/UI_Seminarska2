@@ -2,15 +2,22 @@ import csv
 import re
 
 inMapa = "./textsOriginal/"
-outMapa = "./textsModified/"
+outMapa = "./textsModifiedNum/"
 TOTAL_WORDS = 400
 STEVILO_ODLOMKOV = 20
 vrstniRed = ["Adventure","Fantasy","Science Fiction"]
 
-def fileModifier(fn, shelf):
+global zapStevilka
+zapStevilka = 1
 
+def fileModifier(fn, shelf):
+    global zapStevilka
     inPath = inMapa + shelf + "/" + fn  + ".txt"
-    outPath = outMapa + fn  + "_M.txt"
+    #outPath = outMapa + fn  + "_M.txt"
+    outPath = outMapa + str(zapStevilka).zfill(3) + ".txt"
+    zapStevilka +=1
+
+
     #TODO odstrani zacetek in konec
     zacIdx = 100
     konIdx = 0

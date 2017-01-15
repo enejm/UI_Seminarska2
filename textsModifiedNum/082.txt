@@ -1,0 +1,1771 @@
+volumes: The Vicomte de Bragelonne can refer to the whole book, or the
+
+first volume of the three or four-volume editions. Ten Years Later
+
+can, similarly, refer to the whole book, or the second volume of the
+
+four-volume edition. To add to the confusion, in the case of our etexts,
+
+it refers to the first 104 chapters of the whole book, covering material
+
+in the first and second etexts in the new series. Here is a guide to the
+
+series which may prove helpful:
+
+
+
+The Three Musketeers: Etext 1257--First book of the D’Artagnan Romances.
+
+Covers the years 1625-1628.
+
+
+
+Twenty Years After: Etext 1259--Second book of the D’Artagnan Romances.
+
+Covers the years 1648-1649. [Third in the order that we published, but
+
+second in time sequence!!!]
+
+
+
+Ten Years Later: Etext 1258--First 104 chapters of the third book of the
+
+D’Artagnan Romances. Covers the years 1660-1661.
+
+
+
+The Vicomte de Bragelonne: Etext 2609 (first in the new series)--First
+
+75 chapters of the third book of the D’Artagnan Romances. Covers the
+
+year 1660.
+
+
+
+Ten Years Later: Etext 2681 (second in the new series)--Chapters
+
+76-140 of that third book of the D’Artagnan Romances. Covers the years
+
+1660-1661. [In this particular editing of it]
+
+
+
+Louise de la Valliere: Etext 2710 (third in the new series)--Chapters
+
+141-208 of the third book of the D’Artagnan Romances. Covers the year
+
+1661.
+
+
+
+The Man in the Iron Mask: Etext 2759 (our next text)--Chapters
+
+209-269 of the third book of the D’Artagnan Romances. Covers the years
+
+1661-1673.
+
+
+
+Here is a list of the other Dumas Etexts we have published so far:
+
+
+
+Sep 1999 La Tulipe Noire, by Alexandre
+
+Dumas[Pere#6/French][tlpnrxxx.xxx]1910 This is an abridged edition in
+
+French, also see our full length English Etext Jul 1997 The Black Tulip,
+
+by Alexandre Dumas[Pere][Dumas#1][tbtlpxxx.xxx] 965 Jan 1998 The Count
+
+of Monte Cristo by Alexandre Dumas[Pere][crstoxxx.xxx]1184
+
+
+
+
+
+Many thanks to Dr. David Coward, whose editions of the D’Artagnan
+
+Romances have proved an invaluable source of information.
+
+
+
+
+
+Introduction:
+
+
+
+In the months of March-July in 1844, in the magazine Le Siecle, the
+
+first portion of a story appeared, penned by the celebrated playwright
+
+
+successor.”
+
+
+
+“Then,” said Aramis, “you know that the last reigning monarch was Louis
+
+XIII.?”
+
+
+
+“I do,” answered the youth, slightly reddening.
+
+
+
+“Well, he was a prince full of noble ideas and great projects, always,
+
+alas! deferred by the trouble of the times and the dread struggle that
+
+his minister Richelieu had to maintain against the great nobles of
+
+France. The king himself was of a feeble character, and died young and
+
+unhappy.”
+
+
+
+“I know it.”
+
+
+
+“He had been long anxious about having a heir; a care which weighs
+
+heavily on princes, who desire to leave behind them more than one pledge
+
+that their best thoughts and works will be continued.”
+
+
+
+“Did the king, then, die childless?” asked the prisoner, smiling.
+
+
+
+“No, but he was long without one, and for a long while thought he should
+
+be the last of his race. This idea had reduced him to the depths of
+
+despair, when suddenly, his wife, Anne of Austria--”
+
+
+
+The prisoner trembled.
+
+
+
+“Did you know,” said Aramis, “that Louis XIII.’s wife was called Anne of
+
+Austria?”
+
+
+
+“Continue,” said the young man, without replying to the question.
+
+
+
+“When suddenly,” resumed Aramis, “the queen announced an interesting
+
+event. There was great joy at the intelligence, and all prayed for her
+
+happy delivery. On the 5th of September, 1638, she gave birth to a son.”
+
+
+
+Here Aramis looked at his companion, and thought he observed him turning
+
+pale. “You are about to hear,” said Aramis, “an account which few indeed
+
+could now avouch; for it refers to a secret which they imagined buried
+
+with the dead, entombed in the abyss of the confessional.”
+
+
+
+“And you will tell me this secret?” broke in the youth.
+
+
+
+“Oh!” said Aramis, with unmistakable emphasis, “I do not know that I
+
+ought to risk this secret by intrusting it to one who has no desire to
+
+quit the Bastile.”
+
+
+
+“I hear you, monsieur.”
+
+
+
+“The queen, then, gave birth to a son. But while the court was rejoicing
+
+over the event, when the king had shown the new-born child to the
+
+am engaged.”
+
+
+
+“Eh! yes, on the king’s costumes; I know that, my dear Monsieur
+
+Percerin. You are making three, they tell me.”
+
+
+
+“Five, my dear sir, five.”
+
+
+
+“Three or five, ‘tis all the same to me, my dear monsieur; and I know
+
+that you will make them most exquisitely.”
+
+
+
+“Yes, I know. Once made they will be the most beautiful in the world,
+
+I do not deny it; but that they may be the most beautiful in the word,
+
+they must first be made; and to do this, captain, I am pressed for
+
+time.”
+
+
+
+“Oh, bah! there are two days yet; ‘tis much more than you require,
+
+Monsieur Percerin,” said D’Artagnan, in the coolest possible manner.
+
+
+
+Percerin raised his head with the air of a man little accustomed to be
+
+contradicted, even in his whims; but D’Artagnan did not pay the least
+
+attention to the airs which the illustrious tailor began to assume.
+
+
+
+“My dear M. Percerin,” he continued, “I bring you a customer.”
+
+
+
+“Ah! ah!” exclaimed Percerin, crossly.
+
+
+
+“M. le Baron du Vallon de Bracieux de Pierrefonds,” continued
+
+D’Artagnan. Percerin attempted a bow, which found no favor in the eyes
+
+of the terrible Porthos, who, from his first entry into the room, had
+
+been regarding the tailor askance.
+
+
+
+“A very good friend of mine,” concluded D’Artagnan.
+
+
+
+“I will attend to monsieur,” said Percerin, “but later.”
+
+
+
+“Later? but when?”
+
+
+
+“When I have time.”
+
+
+
+“You have already told my valet as much,” broke in Porthos,
+
+discontentedly.
+
+
+
+“Very likely,” said Percerin; “I am nearly always pushed for time.”
+
+
+
+“My friend,” returned Porthos, sententiously, “there is always time to
+
+be found when one chooses to seek it.”
+
+
+
+Percerin turned crimson; an ominous sign indeed in old men blanched by
+
+age.
+
+
+
+“Monsieur is quite at liberty to confer his custom elsewhere.”
+
+
+
+“Come, come, Percerin,” interposed D’Artagnan, “you are not in a good
+
+temper to-day. Well, I will say one more word to you, which will bring
+
+you on your knees; monsieur is not only a friend of mine, but more, a
+
+
+
+
+“Yes; poor Moliere!” said Loret, smiling; “he loves his home.”
+
+
+
+“‘_He_ loves,’ yes,” replied Moliere, with his sad, sweet smile. “‘He
+
+loves,’ that does not mean, they love _him_.”
+
+
+
+“As for me,” said La Fontaine, “they love me at Chateau Thierry, I am
+
+very sure.”
+
+
+
+Aramis here re-entered after a brief disappearance.
+
+
+
+“Will any one go with me?” he asked. “I am going by Paris, after having
+
+passed a quarter of an hour with M. Fouquet. I offer my carriage.”
+
+
+
+“Good,” said Moliere, “I accept it. I am in a hurry.”
+
+
+
+“I shall dine here,” said Loret. “M. de Gourville has promised me some
+
+craw-fish.”
+
+
+
+“He has promised me some whitings. Find a rhyme for that, La Fontaine.”
+
+
+
+Aramis went out laughing, as only he could laugh, and Moliere followed
+
+him. They were at the bottom of the stairs, when La Fontaine opened the
+
+door, and shouted out:
+
+
+
+
+
+“He has promised us some whitings, In return for these our writings.”
+
+
+
+The shouts of laughter reached the ears of Fouquet at the moment Aramis
+
+opened the door of the study. As to Moliere, he had undertaken to
+
+order the horses, while Aramis went to exchange a parting word with the
+
+superintendent. “Oh, how they are laughing there!” said Fouquet, with a
+
+sigh.
+
+
+
+“Do you not laugh, monseigneur?”
+
+
+
+“I laugh no longer now, M. d’Herblay. The _fete_ is approaching; money
+
+is departing.”
+
+
+
+“Have I not told you that was my business?”
+
+
+
+“Yes, you promised me millions.”
+
+
+
+“You shall have them the day after the king’s _entree_ into Vaux.”
+
+
+
+Fouquet looked closely at Aramis, and passed the back of his icy hand
+
+across his moistened brow. Aramis perceived that the superintendent
+
+either doubted him, or felt he was powerless to obtain the money. How
+
+could Fouquet suppose that a poor bishop, ex-abbe, ex-musketeer, could
+
+find any?
+
+
+
+“Why doubt me?” said Aramis. Fouquet smiled and shook his head.
+
+
+
+“Man of little faith!” added the bishop.
+
+
+
+“My dear M. d’Herblay,” answered Fouquet, “if I fall--”
+
+At this point in Aramis’s gloomy analysis, a bird of night uttered from
+
+the depths of the forest that prolonged and plaintive cry which makes
+
+every creature tremble.
+
+
+
+“I will exile the deposed king,” said Philippe, shuddering; “‘twill be
+
+more human.”
+
+
+
+“The king’s good pleasure will decide the point,” said Aramis. “But has
+
+the problem been well put? Have I brought out of the solution according
+
+to the wishes or the foresight of your royal highness?”
+
+
+
+“Yes, monsieur, yes; you have forgotten nothing--except, indeed, two
+
+things.”
+
+
+
+“The first?”
+
+
+
+“Let us speak of it at once, with the same frankness we have already
+
+conversed in. Let us speak of the causes which may bring about the ruin
+
+of all the hopes we have conceived. Let us speak of the risks we are
+
+running.”
+
+
+
+“They would be immense, infinite, terrific, insurmountable, if, as I
+
+have said, all things did not concur to render them of absolutely no
+
+account. There is no danger either for you or for me, if the constancy
+
+and intrepidity of your royal highness are equal to that perfection of
+
+resemblance to your brother which nature has bestowed upon you. I repeat
+
+it, there are no dangers, only obstacles; a word, indeed, which I find
+
+in all languages, but have always ill-understood, and, were I king,
+
+would have obliterated as useless and absurd.”
+
+
+
+“Yes, indeed, monsieur; there is a very serious obstacle, an
+
+insurmountable danger, which you are forgetting.”
+
+
+
+“Ah!” said Aramis.
+
+
+
+“There is conscience, which cries aloud; remorse, that never dies.”
+
+
+
+“True, true,” said the bishop; “there is a weakness of heart of which
+
+you remind me. You are right, too, for that, indeed, is an immense
+
+obstacle. The horse afraid of the ditch, leaps into the middle of it,
+
+and is killed! The man who trembling crosses his sword with that of
+
+another leaves loopholes whereby his enemy has him in his power.”
+
+
+
+“Have you a brother?” said the young man to Aramis.
+
+
+
+“I am alone in the world,” said the latter, with a hard, dry voice.
+
+
+
+
+
+“Why, yes, D’Artagnan. And how do you like the place?”
+
+
+
+“Very much, and I like M. Fouquet, also.”
+
+
+
+“Is he not a charming host?”
+
+
+
+“No one could be more so.”
+
+
+
+“I am told that the king began by showing great distance of manner
+
+towards M. Fouquet, but that his majesty grew much more cordial
+
+afterwards.”
+
+
+
+“You did not notice it, then, since you say you have been told so?”
+
+
+
+“No; I was engaged with the gentlemen who have just left the room about
+
+the theatrical performances and the tournaments which are to take place
+
+to-morrow.”
+
+
+
+“Ah, indeed! you are the comptroller-general of the _fetes_ here, then?”
+
+
+
+“You know I am a friend of all kinds of amusement where the exercise of
+
+the imagination is called into activity; I have always been a poet in
+
+one way or another.”
+
+
+
+“Yes, I remember the verses you used to write, they were charming.”
+
+
+
+“I have forgotten them, but I am delighted to read the verses of others,
+
+when those others are known by the names of Moliere, Pelisson, La
+
+Fontaine, etc.”
+
+
+
+“Do you know what idea occurred to me this evening, Aramis?”
+
+
+
+“No; tell me what it was, for I should never be able to guess it, you
+
+have so many.”
+
+
+
+“Well, the idea occurred to me, that the true king of France is not
+
+Louis XIV.”
+
+
+
+“_What!_” said Aramis, involuntarily, looking the musketeer full in the
+
+eyes.
+
+
+
+“No, it is Monsieur Fouquet.”
+
+
+
+Aramis breathed again, and smiled. “Ah! you are like all the rest,
+
+jealous,” he said. “I would wager that it was M. Colbert who turned
+
+that pretty phrase.” D’Artagnan, in order to throw Aramis off his guard,
+
+related Colbert’s misadventures with regard to the _vin de Melun_.
+
+
+
+“He comes of a mean race, does Colbert,” said Aramis.
+
+
+
+“Quite true.”
+
+
+
+“When I think, too,” added the bishop, “that that fellow will be your
+
+minister within four months, and that you will serve him as blindly as
+
+you did Richelieu or Mazarin--”
+
+bitterness of anger, almost weeping, and half-suffocated, he threw
+
+himself on his bed, dressed as he was, and bit the sheets in his
+
+extremity of passion, trying to find repose of body at least there. The
+
+bed creaked beneath his weight, and with the exception of a few broken
+
+sounds, emerging, or, one might say, exploding, from his overburdened
+
+chest, absolute silence soon reigned in the chamber of Morpheus.
+
+
+
+
+
+
+
+Chapter XVII. High Treason.
+
+
+
+The ungovernable fury which took possession of the king at the sight and
+
+at the perusal of Fouquet’s letter to La Valliere by degrees subsided
+
+into a feeling of pain and extreme weariness. Youth, invigorated by
+
+health and lightness of spirits, requiring soon that what it loses
+
+should be immediately restored--youth knows not those endless, sleepless
+
+nights which enable us to realize the fable of the vulture unceasingly
+
+feeding on Prometheus. In cases where the man of middle life, in his
+
+acquired strength of will and purpose, and the old, in their state of
+
+natural exhaustion, find incessant augmentation of their bitter sorrow,
+
+a young man, surprised by the sudden appearance of misfortune, weakens
+
+himself in sighs, and groans, and tears, directly struggling with his
+
+grief, and is thereby far sooner overthrown by the inflexible enemy with
+
+whom he is engaged. Once overthrown, his struggles cease. Louis could
+
+not hold out more than a few minutes, at the end of which he had ceased
+
+to clench his hands, and scorch in fancy with his looks the invisible
+
+objects of his hatred; he soon ceased to attack with his violent
+
+imprecations not M. Fouquet alone, but even La Valliere herself; from
+
+fury he subsided into despair, and from despair to prostration. After he
+
+had thrown himself for a few minutes to and fro convulsively on his
+
+bed, his nerveless arms fell quietly down; his head lay languidly on
+
+his pillow; his limbs, exhausted with excessive emotion, still trembled
+
+occasionally, agitated by muscular contractions; while from his breast
+
+faint and infrequent sighs still issued. Morpheus, the tutelary deity of
+
+the apartment, towards whom Louis raised his eyes, wearied by his anger
+
+and reconciled by his tears, showered down upon him the sleep-inducing
+
+
+through and by my means--formed in my honor a concert of praise and
+
+kindly actions. In the least disfavor, these humbler voices accompanied
+
+in harmonious accents the murmur of my own heart. Isolation I have never
+
+yet known. Poverty (a phantom I have sometimes beheld, clad in rags,
+
+awaiting me at the end of my journey through life)--poverty has been the
+
+specter with which many of my own friends have trifled for years past,
+
+which they poetize and caress, and which has attracted me towards them.
+
+Poverty! I accept it, acknowledge it, receive it, as a disinherited
+
+sister; for poverty is neither solitude, nor exile, nor imprisonment.
+
+Is it likely I shall ever be poor, with such friends as Pelisson, as
+
+La Fontaine, as Moliere? with such a mistress as--Oh! if you knew how
+
+utterly lonely and desolate I feel at this moment, and how you, who
+
+separate me from all I love, seem to resemble the image of solitude, of
+
+annihilation--death itself.”
+
+
+
+“But I have already told you, Monsieur Fouquet,” replied D’Artagnan,
+
+moved to the depths of his soul, “that you are woefully exaggerating.
+
+The king likes you.”
+
+
+
+“No, no,” said Fouquet, shaking his head.
+
+
+
+“M. Colbert hates you.”
+
+
+
+“M. Colbert! What does that matter to me?”
+
+
+
+“He will ruin you.”
+
+
+
+“Ah! I defy him to do that, for I am ruined already.”
+
+
+
+At this singular confession of the superintendent, D’Artagnan cast
+
+his glance all round the room; and although he did not open his lips,
+
+Fouquet understood him so thoroughly, that he added: “What can be done
+
+with such wealth of substance as surrounds us, when a man can no longer
+
+cultivate his taste for the magnificent? Do you know what good the
+
+greater part of the wealth and the possessions which we rich enjoy,
+
+confer upon us? merely to disgust us, by their very splendor even, with
+
+everything which does not equal it! Vaux! you will say, and the wonders
+
+of Vaux! What of it? What boot these wonders? If I am ruined, how shall
+
+I fill with water the urns which my Naiads bear in their arms, or
+
+force the air into the lungs of my Tritons? To be rich enough, Monsieur
+
+know M. Colbert.”
+
+
+
+Fouquet raised his head immediately--his features were pale and
+
+distorted. The bolt had hit its mark--not his heart, but his mind and
+
+comprehension.
+
+
+
+“I understand you,” he said to Aramis; “you are proposing a conspiracy
+
+to me?”
+
+
+
+“Something like it.”
+
+
+
+“One of those attempts which, as you said at the beginning of this
+
+conversation, alters the fate of empires?”
+
+
+
+“And of superintendents, too; yes, monseigneur.”
+
+
+
+“In a word, you propose that I should agree to the substitution of the
+
+son of Louis XIII., who is now a prisoner in the Bastile, for the son of
+
+Louis XIII., who is at this moment asleep in the Chamber of Morpheus?”
+
+
+
+Aramis smiled with the sinister expression of the sinister thought which
+
+was passing through his brain. “Exactly,” he said.
+
+
+
+“Have you thought,” continued Fouquet, becoming animated with that
+
+strength of talent which in a few seconds originates, and matures the
+
+conception of a plan, and with that largeness of view which foresees all
+
+consequences, and embraces every result at a glance--“have you thought
+
+that we must assemble the nobility, the clergy, and the third estate
+
+of the realm; that we shall have to depose the reigning sovereign, to
+
+disturb by so frightful a scandal the tomb of their dead father, to
+
+sacrifice the life, the honor of a woman, Anne of Austria, the life and
+
+peace of mind and heart of another woman, Maria Theresa; and suppose
+
+that it were all done, if we were to succeed in doing it--”
+
+
+
+“I do not understand you,” continued Aramis, coldly. “There is not a
+
+single syllable of sense in all you have just said.”
+
+
+
+“What!” said the superintendent, surprised, “a man like you refuse to
+
+view the practical bearing of the case! Do you confine yourself to the
+
+childish delight of a political illusion, and neglect the chances of its
+
+being carried into execution; in other words, the reality itself, is it
+
+possible?”
+
+
+
+“My friend,” said Aramis, emphasizing the word with a kind of disdainful
+
+familiarity, “what does Heaven do in order to substitute one king for
+
+
+“I am at your majesty’s orders,” replied Fouquet, with a low bow; “but
+
+I think that your majesty can hardly dispense with changing your clothes
+
+previous to appearing before your court.”
+
+
+
+“We shall pass by the Louvre,” said the king. “Come.” And they left the
+
+prison, passing before Baisemeaux, who looked completely bewildered as
+
+he saw Marchiali once more leave; and, in his helplessness, tore out
+
+the major portion of his few remaining hairs. It was perfectly true,
+
+however, that Fouquet wrote and gave him an authority for the prisoner’s
+
+release, and that the king wrote beneath it, “Seen and approved, Louis”;
+
+a piece of madness that Baisemeaux, incapable of putting two ideas
+
+together, acknowledged by giving himself a terrible blow on the forehead
+
+with his own fist.
+
+
+
+
+
+
+
+Chapter XXIV. The False King.
+
+
+
+In the meantime, usurped royalty was playing out its part bravely at
+
+Vaux. Philippe gave orders that for his _petit lever_ the _grandes
+
+entrees_, already prepared to appear before the king, should be
+
+introduced. He determined to give this order notwithstanding the absence
+
+of M. d’Herblay, who did not return--our readers know the reason. But
+
+the prince, not believing that absence could be prolonged, wished,
+
+as all rash spirits do, to try his valor and his fortune far from all
+
+protection and instruction. Another reason urged him to this--Anne of
+
+Austria was about to appear; the guilty mother was about to stand in the
+
+presence of her sacrificed son. Philippe was not willing, if he had a
+
+weakness, to render the man a witness of it before whom he was bound
+
+thenceforth to display so much strength. Philippe opened his folding
+
+doors, and several persons entered silently. Philippe did not stir
+
+whilst his _valets de chambre_ dressed him. He had watched, the evening
+
+before, all the habits of his brother, and played the king in such a
+
+manner as to awaken no suspicion. He was thus completely dressed in
+
+hunting costume when he received his visitors. His own memory and
+
+the notes of Aramis announced everybody to him, first of all Anne of
+
+Austria, to whom Monsieur gave his hand, and then Madame with M. de
+
+penetrated by it, and replied to him by a severe look. Raoul
+
+comprehended it all; he recovered his calmness, and was so guarded, that
+
+not another word escaped him. The duke at length rose, on observing the
+
+advanced hour, and said, with animation, “I am in great haste, but if I
+
+am told I have lost time in talking with a friend, I will reply I have
+
+gained--on the balance--a most excellent recruit.”
+
+
+
+“Pardon me, monsieur le duc,” interrupted Raoul, “do not tell the king
+
+so, for it is not the king I wish to serve.”
+
+
+
+“Eh! my friend, whom, then, will you serve? The times are past when
+
+you might have said, ‘I belong to M. de Beaufort.’ No, nowadays, we all
+
+belong to the king, great or small. Therefore, if you serve on board my
+
+vessels, there can be nothing equivocal about it, my dear vicomte; it
+
+will be the king you will serve.”
+
+
+
+Athos waited with a kind of impatient joy for the reply about to be made
+
+to this embarrassing question by Raoul, the intractable enemy of the
+
+king, his rival. The father hoped that the obstacle would overcome the
+
+desire. He was thankful to M. de Beaufort, whose lightness or generous
+
+reflection had thrown an impediment in the way of the departure of a
+
+son, now his only joy. But Raoul, still firm and tranquil, replied:
+
+“Monsieur le duc, the objection you make I have already considered in my
+
+mind. I will serve on board your vessels, because you do me the honor
+
+to take me with you; but I shall there serve a more powerful master than
+
+the king: I shall serve God!”
+
+
+
+“God! how so?” said the duke and Athos together.
+
+
+
+“My intention is to make profession, and become a knight of Malta,”
+
+ added Bragelonne, letting fall, one by one, words more icy than the
+
+drops which fall from the bare trees after the tempests of winter. [4]
+
+
+
+Under this blow Athos staggered and the prince himself was moved.
+
+Grimaud uttered a heavy groan, and let fall the bottle, which was broken
+
+without anybody paying attention. M. de Beaufort looked the young man in
+
+
+_chasse-maree_ come from Toulon under orders. The impression they
+
+experienced on landing was a singularly pleasing one. The island seemed
+
+loaded with flowers and fruits. In its cultivated part it served as a
+
+garden for the governor. Orange, pomegranate, and fig trees bent beneath
+
+the weight of their golden or purple fruits. All round this garden, in
+
+the uncultivated parts, red partridges ran about in conveys among the
+
+brambles and tufts of junipers, and at every step of the comte and Raoul
+
+a terrified rabbit quitted his thyme and heath to scuttle away to the
+
+burrow. In fact, this fortunate isle was uninhabited. Flat, offering
+
+nothing but a tiny bay for the convenience of embarkation, and under the
+
+protection of the governor, who went shares with them, smugglers made
+
+use of it as a provisional _entrepot_, at the expense of not killing the
+
+game or devastating the garden. With this compromise, the governor was
+
+in a situation to be satisfied with a garrison of eight men to guard his
+
+fortress, in which twelve cannons accumulated coats of moldy green. The
+
+governor was a sort of happy farmer, harvesting wines, figs, oil,
+
+and oranges, preserving his citrons and _cedrates_ in the sun of his
+
+casemates. The fortress, encircled by a deep ditch, its only guardian,
+
+arose like three heads upon turrets connected with each other by
+
+terraces covered with moss.
+
+
+
+Athos and Raoul wandered for some time round the fences of the garden
+
+without finding any one to introduce them to the governor. They ended by
+
+making their own way into the garden. It was at the hottest time of
+
+the day. Each living thing sought its shelter under grass or stone. The
+
+heavens spread their fiery veils as if to stifle all noises, to envelop
+
+all existences; the rabbit under the broom, the fly under the leaf,
+
+slept as the wave did beneath the heavens. Athos saw nothing living but
+
+a soldier, upon the terrace beneath the second and third court, who was
+
+carrying a basket of provisions on his head. This man returned almost
+
+immediately without his basket, and disappeared in the shade of his
+
+sentry-box. Athos supposed he must have been carrying dinner to some
+
+forever beneath a mask of steel, exiled to a country where the men
+
+seemed little more than slaves of the elements; Philippe, deprived
+
+even of the society of D’Artagnan, who had loaded him with honors and
+
+delicate attentions, had nothing more to see than odious specters in
+
+this world, and, despair beginning to devour him, he poured himself
+
+forth in complaints, in the belief that his revelations would raise up
+
+some avenger for him. The manner in which the musketeer had been near
+
+killing his two best friends, the destiny which had so strangely brought
+
+Athos to participate in the great state secret, the farewell of Raoul,
+
+the obscurity of the future which threatened to end in a melancholy
+
+death; all this threw D’Artagnan incessantly back on lamentable
+
+predictions and forebodings, which the rapidity of his pace did not
+
+dissipate, as it used formerly to do. D’Artagnan passed from these
+
+considerations to the remembrance of the proscribed Porthos and Aramis.
+
+He saw them both, fugitives, tracked, ruined--laborious architects of
+
+fortunes they had lost; and as the king called for his man of execution
+
+in hours of vengeance and malice, D’Artagnan trembled at the very
+
+idea of receiving some commission that would make his very soul bleed.
+
+Sometimes, ascending hills, when the winded horse breathed hard from his
+
+red nostrils, and heaved his flanks, the captain, left to more freedom
+
+of thought, reflected on the prodigious genius of Aramis, a genius of
+
+acumen and intrigue, a match to which the Fronde and the civil war had
+
+produced but twice. Soldier, priest, diplomatist; gallant, avaricious,
+
+cunning; Aramis had never taken the good things of this life except
+
+as stepping-stones to rise to giddier ends. Generous in spirit, if not
+
+lofty in heart, he never did ill but for the sake of shining even
+
+yet more brilliantly. Towards the end of his career, at the moment of
+
+reaching the goal, like the patrician Fuscus, he had made a false step
+
+upon a plank, and had fallen into the sea. But Porthos, good, harmless
+
+Porthos! To see Porthos hungry, to see Mousqueton without gold lace,
+
+imprisoned, perhaps; to see Pierrefonds, Bracieux, razed to the very
+
+stones, dishonored even to the timber,--these were so many poignant
+
+
+Gourville started, and mounted to the deck, in order to obtain a better
+
+view.
+
+
+
+Fouquet did not go up with him, but said to Gourville, with restrained
+
+mistrust: “See what it is, dear friend.”
+
+
+
+The lighter had just passed the elbow. It came on so fast, that behind
+
+it might be plainly seen the white wake illumined with the fires of the
+
+day.
+
+
+
+“How they go,” repeated the skipper, “how they go! They must be well
+
+paid! I did not think,” he added, “that oars of wood could behave better
+
+than ours, but yonder oarsmen prove the contrary.”
+
+
+
+“Well they may,” said one of the rowers, “they are twelve, and we but
+
+eight.”
+
+
+
+“Twelve rowers!” replied Gourville, “twelve! impossible.”
+
+
+
+The number of eight rowers for a lighter had never been exceeded, even
+
+for the king. This honor had been paid to monsieur le surintendant, more
+
+for the sake of haste than of respect.
+
+
+
+“What does it mean?” said Gourville, endeavoring to distinguish beneath
+
+the tent, which was already apparent, travelers which the most piercing
+
+eye could not yet have succeeded in discovering.
+
+
+
+“They must be in a hurry, for it is not the king,” said the patron.
+
+
+
+Fouquet shuddered.
+
+
+
+“By what sign do you know that it is not the king?” said Gourville.
+
+
+
+“In the first place, because there is no white flag with fleurs-de-lis,
+
+which the royal lighter always carries.”
+
+
+
+“And then,” said Fouquet, “because it is impossible it should be the
+
+king, Gourville, as the king was still in Paris yesterday.”
+
+
+
+Gourville replied to the surintendant by a look which said: “You were
+
+there yourself yesterday.”
+
+
+
+“And by what sign do you make out they are in such haste?” added he, for
+
+the sake of gaining time.
+
+
+
+“By this, monsieur,” said the patron; “these people must have set out a
+
+long while after us, and they have already nearly overtaken us.”
+
+
+
+“Bah!” said Gourville, “who told you that they do not come from
+
+Beaugency or from Moit even?”
+
+
+
+“We have seen no lighter of that shape, except at Orleans. It comes from
+
+
+
+“I would rather die!” replied Fouquet; “I shall suffer less.”
+
+
+
+D’Artagnan, drunk with despair, hurled his pistol to the ground. “I
+
+will take you alive!” said he; and by a prodigy of skill which this
+
+incomparable horseman alone was capable, he threw his horse forward to
+
+within ten paces of the white horse; already his hand was stretched out
+
+to seize his prey.
+
+
+
+“Kill me! kill me!” cried Fouquet, “‘twould be more humane!”
+
+
+
+“No! alive--alive!” murmured the captain.
+
+
+
+At this moment his horse made a false step for the second time, and
+
+Fouquet’s again took the lead. It was an unheard-of spectacle, this
+
+race between two horses which now only kept alive by the will of their
+
+riders. It might be said that D’Artagnan rode, carrying his horse along
+
+between his knees. To the furious gallop had succeeded the fast trot,
+
+and that had sunk to what might be scarcely called a trot at all.
+
+But the chase appeared equally warm in the two fatigued _athletoe_.
+
+D’Artagnan, quite in despair, seized his second pistol, and cocked it.
+
+
+
+“At your horse! not at you!” cried he to Fouquet. And he fired. The
+
+animal was hit in the quarters--he made a furious bound, and plunged
+
+forward. At that moment D’Artagnan’s horse fell dead.
+
+
+
+“I am dishonored!” thought the musketeer; “I am a miserable wretch! for
+
+pity’s sake, M. Fouquet, throw me one of your pistols, that I may blow
+
+out my brains!” But Fouquet rode away.
+
+
+
+“For mercy’s sake! for mercy’s sake!” cried D’Artagnan; “that which you
+
+will not do at this moment, I myself will do within an hour, but here,
+
+upon this road, I should die bravely; I should die esteemed; do me that
+
+service, M. Fouquet!”
+
+
+
+M. Fouquet made no reply, but continued to trot on. D’Artagnan began to
+
+run after his enemy. Successively he threw away his hat, his coat, which
+
+embarrassed him, and then the sheath of his sword, which got between his
+
+legs as he was running. The sword in his hand itself became too heavy,
+
+and he threw it after the sheath. The white horse began to rattle in
+
+
+
+
+And upon this sublime reflection, Porthos pressed his friend’s hand
+
+cordially.
+
+
+
+In presence of this ingenuous greatness of soul, Aramis felt his own
+
+littleness. It was the second time he had been compelled to bend before
+
+real superiority of heart, which is more imposing than brilliancy of
+
+mind. He replied by a mute and energetic pressure to the endearment of
+
+his friend.
+
+
+
+“Now,” said Porthos, “that we have come to an explanation, now that I am
+
+perfectly aware of our situation with respect to Louis XIV., I think, my
+
+friend, it is time to make me comprehend the political intrigue of which
+
+we are the victims--for I plainly see there is a political intrigue at
+
+the bottom of all this.”
+
+
+
+“D’Artagnan, my good Porthos, D’Artagnan is coming, and will detail it
+
+to you in all its circumstances; but, excuse me, I am deeply grieved, I
+
+am bowed down with mental anguish, and I have need of all my presence
+
+of mind, all my powers of reflection, to extricate you from the false
+
+position in which I have so imprudently involved you; but nothing can be
+
+more clear, nothing more plain, than your position, henceforth. The king
+
+Louis XIV. has no longer now but one enemy: that enemy is myself,
+
+myself alone. I have made you a prisoner, you have followed me, to-day
+
+I liberate you, you fly back to your prince. You can perceive, Porthos,
+
+there is not one difficulty in all this.”
+
+
+
+“Do you think so?” said Porthos.
+
+
+
+“I am quite sure of it.”
+
+
+
+“Then why,” said the admirable good sense of Porthos, “then why, if
+
+we are in such an easy position, why, my friend, do we prepare cannon,
+
+muskets, and engines of all sorts? It seems to me it would be much
+
+more simple to say to Captain d’Artagnan: ‘My dear friend, we have been
+
+mistaken; that error is to be repaired; open the door to us, let us pass
+
+through, and we will say good-bye.’”
+
+
+
+“Ah! that!” said Aramis, shaking his head.
+
+
+
+“Why do you say ‘that’? Do you not approve of my plan, my friend?”
+
+“It is a pack of hounds,” said Porthos; “the dogs are on a scent.”
+
+
+
+“Who can be hunting at such a moment as this?” said Aramis.
+
+
+
+“And this way, particularly,” continued Porthos, “where they might
+
+expect the army of the royalists.”
+
+
+
+“The noise comes nearer. Yes, you are right, Porthos, the dogs are on a
+
+scent. But, Yves!” cried Aramis, “come here! come here!”
+
+
+
+Yves ran towards him, letting fall the cylinder which he was about to
+
+place under the boat when the bishop’s call interrupted him.
+
+
+
+“What is the meaning of this hunt, skipper?” said Porthos.
+
+
+
+“Eh! monseigneur, I cannot understand it,” replied the Breton. “It is
+
+not at such a moment that the Seigneur de Locmaria would hunt. No, and
+
+yet the dogs--”
+
+
+
+“Unless they have escaped from the kennel.”
+
+
+
+“No,” said Goenne, “they are not the Seigneur de Locmaria’s hounds.”
+
+
+
+“In common prudence,” said Aramis, “let us go back into the grotto; the
+
+voices evidently draw nearer, we shall soon know what we have to trust
+
+to.”
+
+
+
+They re-entered, but had scarcely proceeded a hundred steps in the
+
+darkness, when a noise like the hoarse sigh of a creature in distress
+
+resounded through the cavern, and breathless, rapid, terrified, a fox
+
+passed like a flash of lightning before the fugitives, leaped over
+
+the boat and disappeared, leaving behind its sour scent, which was
+
+perceptible for several seconds under the low vaults of the cave.
+
+
+
+“The fox!” cried the Bretons, with the glad surprise of born hunters.
+
+
+
+“Accursed mischance!” cried the bishop, “our retreat is discovered.”
+
+
+
+“How so?” said Porthos; “are you afraid of a fox?”
+
+
+
+“Eh! my friend, what do you mean by that? why do you specify the fox? It
+
+is not the fox alone. _Pardieu!_ But don’t you know, Porthos, that after
+
+the foxes come hounds, and after hounds men?”
+
+
+
+Porthos hung his head. As though to confirm the words of Aramis, they
+
+heard the yelping pack approach with frightful swiftness upon the trail.
+
+Six foxhounds burst at once upon the little heath, with mingling yelps
+
+
+they will sink us?”
+
+
+
+“But, perhaps,” the patron ventured to say, “perhaps under cover of
+
+night, we could escape them.”
+
+
+
+“Oh!” said Aramis, “they have, no doubt, Greek fire with which to
+
+lighten their own course and ours likewise.”
+
+
+
+At the same moment, as if the vessel was responsive to the appeal of
+
+Aramis, a second cloud of smoke mounted slowly to the heavens, and from
+
+the bosom of that cloud sparkled an arrow of flame, which described a
+
+parabola like a rainbow, and fell into the sea, where it continued to
+
+burn, illuminating a space of a quarter of a league in diameter.
+
+
+
+The Bretons looked at each other in terror. “You see plainly,” said
+
+Aramis, “it will be better to wait for them.”
+
+
+
+The oars dropped from the hands of the sailors, and the bark, ceasing
+
+to make way, rocked motionless upon the summits of the waves. Night came
+
+on, but still the ship drew nearer. It might be imagined it redoubled
+
+its speed with darkness. From time to time, as a vulture rears its head
+
+out of its nest, the formidable Greek fire darted from its sides, and
+
+cast its flame upon the ocean like an incandescent snowfall. At last
+
+it came within musket-shot. All the men were on deck, arms in hand; the
+
+cannoniers were at their guns, the matches burning. It might be thought
+
+they were about to board a frigate and to fight a crew superior in
+
+number to their own, not to attempt the capture of a canoe manned by
+
+four people.
+
+
+
+“Surrender!” cried the commander of the _balancelle_, with the aid of
+
+his speaking-trumpet.
+
+
+
+The sailors looked at Aramis. Aramis made a sign with his head. Yves
+
+waved a white cloth at the end of a gaff. This was like striking their
+
+flag. The pursuer came on like a race-horse. It launched a fresh Greek
+
+fire, which fell within twenty paces of the little canoe, and threw a
+
+light upon them as white as sunshine.
+
+
+
+“At the first sign of resistance,” cried the commander of the
+
+_balancelle_, “fire!” The soldiers brought their muskets to the present.
+
+Chevalier d’Artagnan, captain of the king’s musketeers, whatever the
+
+said Chevalier d’Artagnan may demand of my property. On condition that
+
+M. le Vicomte de Bragelonne do pay a good pension to M. le Chevalier
+
+d’Herblay, my friend, if he should need it in exile. I leave to my
+
+intendant Mousqueton all of my clothes, of city, war, or chase, to the
+
+number of forty-seven suits, in the assurance that he will wear them
+
+till they are worn out, for the love of and in remembrance of his
+
+master. Moreover, I bequeath to M. le Vicomte de Bragelonne my old
+
+servant and faithful friend Mousqueton, already named, providing that
+
+the said vicomte shall so act that Mousqueton shall declare, when dying,
+
+he has never ceased to be happy.”
+
+
+
+On hearing these words, Mousqueton bowed, pale and trembling; his
+
+shoulders shook convulsively; his countenance, compressed by a frightful
+
+grief, appeared from between his icy hands, and the spectators saw him
+
+stagger and hesitate, as if, though wishing to leave the hall, he did
+
+not know the way.
+
+
+
+“Mousqueton, my good friend,” said D’Artagnan, “go and make your
+
+preparations. I will take you with me to Athos’s house, whither I shall
+
+go on leaving Pierrefonds.”
+
+
+
+Mousqueton made no reply. He scarcely breathed, as if everything in that
+
+hall would from that time be foreign. He opened the door, and slowly
+
+disappeared.
+
+
+
+The procureur finished his reading, after which the greater part
+
+of those who had come to hear the last will of Porthos dispersed by
+
+degrees, many disappointed, but all penetrated with respect. As
+
+for D’Artagnan, thus left alone, after having received the formal
+
+compliments of the procureur, he was lost in admiration of the wisdom of
+
+the testator, who had so judiciously bestowed his wealth upon the most
+
+necessitous and the most worthy, with a delicacy that neither nobleman
+
+nor courtier could have displayed more kindly. When Porthos enjoined
+
+Raoul de Bragelonne to give D’Artagnan all that he would ask, he knew
+
+well, our worthy Porthos, that D’Artagnan would ask or take nothing; and
+
+in case he did demand anything, none but himself could say what. Porthos
+
+left a pension to Aramis, who, if he should be inclined to ask too much,
+
+
+
+
+But this officer was mistaken; D’Artagnan in the last four years had
+
+lived a dozen. Age had printed its pitiless claws at each angle of his
+
+eyes; his brow was bald; his hands, formerly brown and nervous, were
+
+getting white, as if the blood had half forgotten them.
+
+
+
+D’Artagnan accosted the officers with the shade of affability which
+
+distinguishes superiors, and received in turn for his courtesy two most
+
+respectful bows.
+
+
+
+“Ah! what a lucky chance to see you here, Monsieur d’Artagnan!” cried
+
+the falconer.
+
+
+
+“It is rather I who should say that, messieurs,” replied the captain,
+
+“for nowadays, the king makes more frequent use of his musketeers than
+
+of his falcons.”
+
+
+
+“Ah! it is not as it was in the good old times,” sighed the falconer.
+
+“Do you remember, Monsieur d’Artagnan, when the late king flew the pie
+
+in the vineyards beyond Beaugence? Ah! _dame!_ you were not the captain
+
+of the musketeers at that time, Monsieur d’Artagnan.” [7]
+
+
+
+“And you were nothing but under-corporal of the tiercelets,” replied
+
+D’Artagnan, laughing. “Never mind that, it was a good time, seeing
+
+that it is always a good time when we are young. Good day, monsieur the
+
+keeper of the harriers.”
+
+
+
+“You do me honor, monsieur le comte,” said the latter. D’Artagnan made
+
+no reply. The title of comte had hardly struck him; D’Artagnan had been
+
+a comte four years.
+
+
+
+“Are you not very much fatigued with the long journey you have taken,
+
+monsieur le capitaine?” continued the falconer. “It must be full two
+
+hundred leagues from hence to Pignerol.”
+
+
+
+“Two hundred and sixty to go, and as many to return,” said D’Artagnan,
+
+quietly.
+
+
+
+“And,” said the falconer, “is _he_ well?”
+
+
+
+“Who?” asked D’Artagnan.
+
+
+
+“Why, poor M. Fouquet,” continued the falconer, in a low voice. The
+
+keeper of the harriers had prudently withdrawn.
+
+
+
+“No,” replied D’Artagnan, “the poor man frets terribly; he cannot
+
+comprehend how imprisonment can be a favor; he says that parliament
+
+absolved him by banishing him, and banishment is, or should be, liberty.
+
+He cannot imagine that they had sworn his death, and that to save his
+
