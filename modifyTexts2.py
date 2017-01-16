@@ -2,7 +2,7 @@ import csv
 import re
 
 inMapa = "./textsOriginal/"
-outMapa = "./textsModifiedNum2/"
+outMapa = "./textsModiedOdlomki/"
 TOTAL_WORDS = 400
 STEVILO_ODLOMKOV = 20
 vrstniRed = ["Adventure","Fantasy","Science Fiction"]

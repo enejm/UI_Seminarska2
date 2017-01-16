@@ -15,7 +15,7 @@ def fileModifier(fn, shelf):
     inPath = inMapa + shelf + "/" + fn  + ".txt"
     #outPath = outMapa + fn  + "_M.txt"
     outPath = outMapa + str(zapStevilka).zfill(3) + ".txt"
-    zapStevilka +=1
+
 
 
     #TODO odstrani zacetek in konec
@@ -49,23 +49,26 @@ def fileModifier(fn, shelf):
     #Dobimo število vseh vrstic, da vemo na katerih mestih kasneje vzamemo odlomke
     # with open(inPath, 'r', encoding="utf8") as inputFile:
     #     korakZaNaslednjiOdlomek= len(inputFile.readlines())//STEVILO_ODLOMKOV;
-    with open(inPath, 'r', encoding="utf8") as inputFile, open(outPath, 'w+', encoding="utf8") as outFile:
+    with open(inPath, 'r', encoding="utf8") as inputFile:
         lines = inputFile.readlines()
         i = 0
         while i < STEVILO_ODLOMKOV:
-            odlomek = ""
-            l = zacIdx + i*korakZaNaslednjiOdlomek
-            wc = 0
-            #print(i)
-            while wc < TOTAL_WORDS:
-                line = lines[l]
-                wc += len(line.split(" "))
-                line = line.strip()
-                odlomek += line + " "
-                #print("     "+ str(wc))
-                l += 1
-            outFile.write(odlomek+"\n")
+            outPath = outMapa + str(zapStevilka).zfill(3) + str(i+1).zfill(2)  + ".txt"
+            with open(outPath, 'w+', encoding="utf8") as outFile:
+                odlomek = ""
+                l = zacIdx + i*korakZaNaslednjiOdlomek
+                wc = 0
+                #print(i)
+                while wc < TOTAL_WORDS:
+                    line = lines[l]
+                    wc += len(line.split(" "))
+                    line = line.strip()
+                    odlomek += line + " "
+                    #print("     "+ str(wc))
+                    l += 1
+                outFile.write(odlomek+"\n")
             i+=1
+    zapStevilka +=1
 
 
 with open('textiFiction.csv', newline='') as csvfile:
