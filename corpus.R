@@ -1,7 +1,7 @@
 
 
 narediKorpus <- function(){
-  corpus <-Corpus(DirSource("./textsModifiedNum2"))
+  corpus <-Corpus(DirSource("./textsModifiedNum"))
   
   # Odstranjevanje lastnih imen
   conn <- file("lastnaImenaStopwords", open="r")
