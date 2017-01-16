@@ -71,26 +71,70 @@ preurediDatasetOdlomki <- function(corpus){
   return(dtm_matrix);
 }
 
-corpus <- narediKorpusOdlomkov();
-dtm_m <- preurediDatasetOdlomki(corpus)
-names(dtm_m)[ncol(dtm_m)] <- "Topic"
+# corpus <- narediKorpusOdlomkov();
+# dtm_m <- preurediDatasetOdlomki(corpus)
+# names(dtm_m)[ncol(dtm_m)] <- "Topic"
+# 
+# sel <- sample(nrow(dtm_m),nrow(dtm_m)*0.3,F);
+# train <- dtm_m[-sel,]
+# test <- dtm_m[sel,]
+# 
+# library(class)
+# ##KNN
+# r <- which(names(dtm_m)=="Topic")
+# predicted <- knn(train[,-r], test[,-r], train[,ncol(train)], k=1)
+# observed <- test[,ncol(test)]
+# t <- table(observed, predicted)
+# t
+# sum(diag(t))/sum(t) #CA
+# 
+# library(kernlab)
+# #SVN
+# model.svm <- ksvm(Topic ~ ., train, kernel = "rbfdot")
+# predicted <- predict(model.svm, test, type = "response")
+# t <- table(observed, predicted)
+# t
 
-sel <- sample(nrow(dtm_m),nrow(dtm_m)*0.3,F);
-train <- dtm_m[-sel,]
-test <- dtm_m[sel,]
 
-library(class)
-##KNN
-r <- which(names(dtm_m)=="Topic")
-predicted <- knn(train[,-r], test[,-r], train[,ncol(train)], k=1)
-observed <- test[,ncol(test)]
-t <- table(observed, predicted)
-t
-sum(diag(t))/sum(t) #CA
-
-library(kernlab)
-#SVN
-model.svm <- ksvm(Topic ~ ., train, kernel = "rbfdot")
-predicted <- predict(model.svm, test, type = "response")
-t <- table(observed, predicted)
-t
+preurediDatasetOdlomkiShrani <- function(corpus){
+  df <- data.frame()
+  dtm <- DocumentTermMatrix(corpus, control = list(weighting=weightTfIdf))
+  tdm <- TermDocumentMatrix(corpus);
+  #dtm <- removeSparseTerms(dtm, 0.1);
+  tdm <- removeSparseTerms(tdm, 0.7);
+  
+  dtm_matrix <- as.matrix(dtm);
+  tdm_matrix <- as.matrix(tdm);
+  #print(ncol(dtm_matrix));
+  
+  vector_unique <- vector();
+  vector_common <- vector();
+  vector_class <- vector();
+  
+  ##Unique - dodan atribut1
+  for(row in 1:nrow(dtm_matrix)){
+    i <- 0;
+    for(col in 1:ncol(dtm_matrix)-1){
+      polje <- dtm_matrix[row,col];
+      if(!is.null(polje) &&
+         length(polje) == 1 &&
+         !is.na(polje) &&
+         as.numeric(polje)!=0){
+        i <- i + 1;
+      }
+      if(!is.numeric(polje)){print(polje);} #Debugging: ce polje ni numericno je nekaj narobe
+    }
+    vector_unique <- c(vector_unique, i);
+  }
+  
+  ##Instanc pogostih besed - dodan atribut2
+  vector_common = colSums(tdm_matrix);
+  
+  #print(ncol(dtm_matrix));
+  print(length(vector_unique))
+  print(length(vector_common))
+  #df <- cbind(df, c(vector_unique));
+  #df <- cbind(df, c(vector_common));
+  #df
+  vector_common
+}

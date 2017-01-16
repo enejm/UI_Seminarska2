@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b26de8ef-7ec7-4551-ade3-1bcba61ffaa3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/textsModifiedNum/107.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textiFiction.csv" afterPath="$PROJECT_DIR$/textiFiction.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/corpus.R" afterPath="$PROJECT_DIR$/corpus.R" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lastnaImenaStopwords" afterPath="$PROJECT_DIR$/lastnaImenaStopwords" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.R" afterPath="$PROJECT_DIR$/main.R" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modifyTexts2.py" afterPath="$PROJECT_DIR$/modifyTexts2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/odlomki.R" afterPath="$PROJECT_DIR$/odlomki.R" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textmining/vaje9 - textmining.R" afterPath="$PROJECT_DIR$/textmining/vaje9 - textmining.R" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsModifiedNum/096.txt" afterPath="$PROJECT_DIR$/textsModifiedNum/096.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsModifiedNum/097.txt" afterPath="$PROJECT_DIR$/textsModifiedNum/097.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsModifiedNum/098.txt" afterPath="$PROJECT_DIR$/textsModifiedNum/098.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsModifiedNum/099.txt" afterPath="$PROJECT_DIR$/textsModifiedNum/099.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsModifiedNum/100.txt" afterPath="$PROJECT_DIR$/textsModifiedNum/100.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsModifiedNum/101.txt" afterPath="$PROJECT_DIR$/textsModifiedNum/101.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsModifiedNum/102.txt" afterPath="$PROJECT_DIR$/textsModifiedNum/102.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsModifiedNum/103.txt" afterPath="$PROJECT_DIR$/textsModifiedNum/103.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsModifiedNum/104.txt" afterPath="$PROJECT_DIR$/textsModifiedNum/104.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsModifiedNum/105.txt" afterPath="$PROJECT_DIR$/textsModifiedNum/105.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsModifiedNum/106.txt" afterPath="$PROJECT_DIR$/textsModifiedNum/106.txt" />
     </list>
     <ignored path="UI_Seminarska2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,14 +40,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="modifyTexts2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="modifyTexts2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modifyTexts2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2665505">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modifyTextsOdlomki.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modifyTextsOdlomki.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6219512">
+              <caret line="64" column="39" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -84,11 +82,12 @@
         <option value="$PROJECT_DIR$/modifyTexts.py" />
         <option value="$PROJECT_DIR$/parserFull.py" />
         <option value="$PROJECT_DIR$/modifyTexts2.py" />
+        <option value="$PROJECT_DIR$/modifyTextsOdlomki.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -118,6 +117,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -138,8 +139,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -149,7 +148,12 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.modifyTexts2">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aeneas\Desktop\Fri\2. Letnik\Umetna Inteligenca\UI_Seminarska2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.modifyTextsOdlomki">
     <configuration default="false" name="parser" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,6 +218,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="UI_Seminarska2" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modifyTexts2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="modifyTextsOdlomki" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="UI_Seminarska2" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modifyTextsOdlomki.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -340,18 +361,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.parser" />
       <item index="1" class="java.lang.String" itemvalue="Python.test" />
       <item index="2" class="java.lang.String" itemvalue="Python.parserFull" />
       <item index="3" class="java.lang.String" itemvalue="Python.modifyTexts2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.modifyTextsOdlomki" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.modifyTexts2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.parserFull" />
-        <item index="2" class="java.lang.String" itemvalue="Python.parser" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.modifyTextsOdlomki" />
+        <item index="1" class="java.lang.String" itemvalue="Python.modifyTexts2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.parserFull" />
+        <item index="3" class="java.lang.String" itemvalue="Python.parser" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -369,7 +392,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -429,11 +452,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/parserFull.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modifyTexts2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/modifyTexts.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -583,17 +625,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modifyTexts2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2665505">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modifyTextsOdlomki.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6219512">
+          <caret line="64" column="39" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
