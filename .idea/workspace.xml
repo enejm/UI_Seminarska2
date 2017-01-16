@@ -2,11 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b26de8ef-7ec7-4551-ade3-1bcba61ffaa3" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/textsModifiedNum/107.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textiFiction.csv" afterPath="$PROJECT_DIR$/textiFiction.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/corpus.R" afterPath="$PROJECT_DIR$/corpus.R" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.R" afterPath="$PROJECT_DIR$/main.R" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modifyTexts2.py" afterPath="$PROJECT_DIR$/modifyTexts2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textmining/vaje9 - textmining.R" afterPath="$PROJECT_DIR$/textmining/vaje9 - textmining.R" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsModifiedNum/096.txt" afterPath="$PROJECT_DIR$/textsModifiedNum/096.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsModifiedNum/097.txt" afterPath="$PROJECT_DIR$/textsModifiedNum/097.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsModifiedNum/098.txt" afterPath="$PROJECT_DIR$/textsModifiedNum/098.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsModifiedNum/099.txt" afterPath="$PROJECT_DIR$/textsModifiedNum/099.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsModifiedNum/100.txt" afterPath="$PROJECT_DIR$/textsModifiedNum/100.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsModifiedNum/101.txt" afterPath="$PROJECT_DIR$/textsModifiedNum/101.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsModifiedNum/102.txt" afterPath="$PROJECT_DIR$/textsModifiedNum/102.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsModifiedNum/103.txt" afterPath="$PROJECT_DIR$/textsModifiedNum/103.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsModifiedNum/104.txt" afterPath="$PROJECT_DIR$/textsModifiedNum/104.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsModifiedNum/105.txt" afterPath="$PROJECT_DIR$/textsModifiedNum/105.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textsModifiedNum/106.txt" afterPath="$PROJECT_DIR$/textsModifiedNum/106.txt" />
     </list>
     <ignored path="UI_Seminarska2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,8 +55,8 @@
       <file leaf-file-name="modifyTexts2.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/modifyTexts2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44425088">
-              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.2665505">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -105,7 +118,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -126,6 +138,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -416,6 +429,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/modifyTexts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parserFull.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modifyTexts2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parserFull.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modifyTexts2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/parserFull.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -508,13 +569,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modifyTexts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07816092">
-          <caret line="4" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/parserFull.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -525,10 +579,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/modifyTexts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/modifyTexts2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44425088">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.2665505">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
