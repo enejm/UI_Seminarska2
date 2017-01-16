@@ -2,7 +2,7 @@ import csv
 import re
 
 inMapa = "./textsOriginal/"
-outMapa = "./textsModifiedNum/"
+outMapa = "./textsModifiedNum2/"
 TOTAL_WORDS = 400
 STEVILO_ODLOMKOV = 20
 vrstniRed = ["Adventure","Fantasy","Science Fiction"]
@@ -53,22 +53,24 @@ def fileModifier(fn, shelf):
         lines = inputFile.readlines()
         i = 0
         while i < STEVILO_ODLOMKOV:
+            odlomek = ""
             l = zacIdx + i*korakZaNaslednjiOdlomek
             wc = 0
             #print(i)
             while wc < TOTAL_WORDS:
                 line = lines[l]
                 wc += len(line.split(" "))
-                outFile.write(line)
+                line = line.strip()
+                odlomek += line + " "
                 #print("     "+ str(wc))
                 l += 1
-            outFile.write("\n")
+            outFile.write(odlomek+"\n")
             i+=1
 
 
 with open('textiFiction.csv', newline='') as csvfile:
     texts = csv.reader(csvfile, delimiter=',', dialect="excel")
-    #glava = next(texts)
+    glava = next(texts)
     for book in texts:
         ime = book[1]
         shelf = book[4]
