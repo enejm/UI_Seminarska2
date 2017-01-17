@@ -52,5 +52,71 @@ test <- data[sel,]
 #############################################
 source("klasifikacija.R")
 
-rezultati <- klasifikacijaClass(train, test)
-  
+rezultati2 <- klasifikacijaClass(train, test)
+
+
+library(ipred)
+mypredict <- function(object, newdata){predict(object, newdata, type = "class")}
+
+
+
+library(CORElearn)
+
+# Model bomo zgradili s pomocjo funkcije "CoreModel", ki potrebuje informacijo o tem, kateri tip modela naj zgradi.
+# Funkcijo za gradnjo modela napisemo tako, da klicu funkcije "CoreModel" dodamo parameter za izbiro tipa modela.
+mymodel.coremodel <- function(formula, data, target.model){CoreModel(formula, data, model=target.model)}
+
+# Funkcijo za generiranje napovedi napisemo tako, da iz dobljenih napovedi modela obdrzimo samo oznake razredov.
+# Ko model vrne zahtevane napovedi, ga ne potrebujemo vec - zato ga odstranimo iz pomnilnika.
+mypredict.coremodel <- function(object, newdata) {pred <- predict(object, newdata)$class; destroyModels(object); pred}
+
+# 10-kratno precno preverjanje 
+res <- errorest(w.Topic~., data=data, model = mymodel.coremodel, predict = mypredict.coremodel, target.model = "bayes")
+1-res$error
+
+
+
+# metoda "izloci enega"
+res <- errorest(insurance~., data=ins, model = mymodel.coremodel, predict = mypredict.coremodel, target.model = "tree", est.para=control.errorest(k = nrow(ins)))
+1-res$error
+
+
+library(kknn)
+
+knn.model <- kknn(Topic~., train, test, k = 5)
+predicted <- fitted(knn.model)
+ae<-mae(observed, predicted)
+rae<-rmae(observed, predicted, mean(learnReg$PTS_DIFF))
+se <- mse(observed, predicted)
+rse<-rmae(observed, predicted, mean(learnReg$PTS_DIFF))
+df <- rbind(df, list("KNN", ae, rae, se, rse))
+
+
+library(CORElearn)
+obj <- CoreModel(w.Topic ~ .,  data=train, model="bayes")
+predicted <- predict(obj, test, type="class")
+observed <- test$w.Topic
+
+t <- table(observed, predicted)
+sum(diag(t)) / sum(t)
+
+
+colnames(test$"next") = c("w.next")
+test$w.next
+test$w.next
+
+r <- which(colnames(train)=="next")
+r
+colnames(train)[r] <- "w.nasl"
+colnames(test)[r] <- "w.nasl"
+
+test$"break"
+
+colnames(train) <- paste0(c("w."), colnames(train))
+colnames(test) <- paste0(c("w."), colnames(test))
+colnames(data) <- paste0(c("w."), colnames(data))
+
+
+
+
+
